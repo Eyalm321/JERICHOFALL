@@ -55,7 +55,9 @@ internal sealed class JerichoGame : Game
     public JerichoGame(GameOptions options)
     {
         this.options=options;graphics=new(this){PreferredBackBufferWidth=960,PreferredBackBufferHeight=720,SynchronizeWithVerticalRetrace=true};
-        IsFixedTimeStep=true;TargetElapsedTime=TimeSpan.FromTicks(TimeSpan.TicksPerSecond/60);IsMouseVisible=true;
+        // Verification captures specific simulation frames, so each scripted
+        // update must reach Draw even when the runner cannot maintain 60 Hz.
+        IsFixedTimeStep=options.Verify==null;TargetElapsedTime=TimeSpan.FromTicks(TimeSpan.TicksPerSecond/60);IsMouseVisible=true;
         Window.Title="JERICHOFALL";Window.AllowUserResizing=true;InactiveSleepTime=TimeSpan.Zero;
         Window.ClientSizeChanged+=(_,_)=>Resize();
     }
