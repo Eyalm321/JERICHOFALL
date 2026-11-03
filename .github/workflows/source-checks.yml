@@ -1,0 +1,27 @@
+name: Source checks
+on: [push, pull_request, workflow_dispatch]
+permissions:
+  contents: read
+jobs:
+  repository-and-source:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Reject binaries, saves and secrets
+        run: python3 tools/repository/check_contents.py
+      - name: Exercise repository guard
+        run: python3 -m unittest discover -s tools/repository/tests -v
+      - name: Check release notices and reviewed asset inventory
+        run: |
+          python3 -m unittest discover -s tools/standalone/tests -v
+          python3 tools/standalone/release_assets.py
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '10.0.x'
+      - name: Prepare authored independent-engine content
+        run: python3 tools/standalone/prepare_content.py build/check-content
+      - name: Check current JERICHOFALL core
+        run: dotnet run --project tests/Jerichofall.Checks -c Release -- build/check-content

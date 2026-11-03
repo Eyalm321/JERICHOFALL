@@ -1,0 +1,1342 @@
+{
+  "schema": 1,
+  "license": "CC-BY-4.0",
+  "credit": "Eyal Mizrachi and JERICHOFALL contributors; created with AI assistance",
+  "scope": "Rights held by the licensor only; no claim over facts or uncopyrightable AI output.",
+  "sources": [
+    {
+      "path": "assets/actors/spirit.png",
+      "sha256": "97473405b946883ad914d6b727fa58246012f8eee75e8881d87d4c227ef62f79"
+    },
+    {
+      "path": "assets/arenas/ai.json",
+      "sha256": "d194847f9e9d666a34ff4fe35a4425e8953e4a64a251e0bb6038af47464009a9"
+    },
+    {
+      "path": "assets/arenas/ai/background.png",
+      "sha256": "3930664ea3961881919e9038f9af164cfe7c662d6f0dc2a7a53c42a900f86389"
+    },
+    {
+      "path": "assets/arenas/ai/foreground.png",
+      "sha256": "8b567f94e76f246cc39cb7f7d6df52a5a6223b202123a38dac2faec7098ba420"
+    },
+    {
+      "path": "assets/arenas/ai/presentation.json",
+      "sha256": "49bc781e972c562cc73f4979f6fe026312528880b178d60ecf70118f2e9e365f"
+    },
+    {
+      "path": "assets/arenas/ai/tiles-background.png",
+      "sha256": "1b2da439619c44f0347275ff6884cff98c1143719a468383679bab9758d5428f"
+    },
+    {
+      "path": "assets/arenas/carmel.json",
+      "sha256": "50520db3b08ed1b841fe48ea6a97d6f1881cf00b82197140ada60e04b8ca86cd"
+    },
+    {
+      "path": "assets/arenas/carmel/background.png",
+      "sha256": "ace71db8a954acbd446f562dc6faf16e89c24509172b67a6096243eb451e4097"
+    },
+    {
+      "path": "assets/arenas/carmel/foreground.png",
+      "sha256": "773eeba8449e5fce863b2413ab97f9ca1e83373392c07dd1be579980eea09698"
+    },
+    {
+      "path": "assets/arenas/carmel/presentation.json",
+      "sha256": "6057b38876cd91b8e79201264973bd3b69cda41ab622623e61bf7c13214dbd6d"
+    },
+    {
+      "path": "assets/arenas/carmel/tiles-background.png",
+      "sha256": "d64df68c74ef5848ffc80971a143931d2f7e0d61146647ceb9c25fad4c389b27"
+    },
+    {
+      "path": "assets/arenas/dophkah.json",
+      "sha256": "9b067e6fc14880d9a3ee861a43ec1e5020049bc81bbf354010d18be9d3ffda17"
+    },
+    {
+      "path": "assets/arenas/dophkah/background.png",
+      "sha256": "b29d684f5dfc18b9aac212ad1591be3c92ed86e255c48bda21df4fee972f3d70"
+    },
+    {
+      "path": "assets/arenas/dophkah/foreground.png",
+      "sha256": "90fe5dcc71da40414c9bb14e556b92cc7f0c4ae66c7b3ed47c9a178d383cef55"
+    },
+    {
+      "path": "assets/arenas/dophkah/presentation.json",
+      "sha256": "1104e5660976e1de8f0c7b58b1cec7800acf7ec341d8bbeac2b4f325aaabdcea"
+    },
+    {
+      "path": "assets/arenas/dophkah/tiles-background.png",
+      "sha256": "c3ef7032e1c7ba799b11d7518385f055535b2b7eddbbc277dc6cbe9fe13bc9c5"
+    },
+    {
+      "path": "assets/arenas/edom.json",
+      "sha256": "17535cda513b71123ab129a498221f50e21d71c4c7a6b7bb90bee4e63c672a45"
+    },
+    {
+      "path": "assets/arenas/edom/background.png",
+      "sha256": "0515180920cce523fc8af7e3835398192274ab45b50f5c2c7bcb74fb094a1d28"
+    },
+    {
+      "path": "assets/arenas/edom/foreground.png",
+      "sha256": "dc265daa89c4d32eba27df077c16534e7eae87467b37c1d498a6e39a97c2f222"
+    },
+    {
+      "path": "assets/arenas/edom/presentation.json",
+      "sha256": "49bc781e972c562cc73f4979f6fe026312528880b178d60ecf70118f2e9e365f"
+    },
+    {
+      "path": "assets/arenas/edom/tiles-background.png",
+      "sha256": "9ddf3942b0ad27eaf02b269fbbdb1aa31639143ae579277d47351dc2d0df093b"
+    },
+    {
+      "path": "assets/arenas/elim.json",
+      "sha256": "9a3ffcaa268dea87ce408f9e5543568341f69e80d567dcbfef9c156f62306832"
+    },
+    {
+      "path": "assets/arenas/elim/background.png",
+      "sha256": "c5822afba0be76f5d6ab3ab1ffebb3a58b0ca3c6595b4d2900e4a5d59a2cdb04"
+    },
+    {
+      "path": "assets/arenas/elim/foreground.png",
+      "sha256": "f82655e5a305ed1357a89c537cadeb800047a8e96a97cd7e3fdbfb84148ba8a1"
+    },
+    {
+      "path": "assets/arenas/elim/presentation.json",
+      "sha256": "43a4b6c21a0a99b9951bb46e42da29fa4247c5d550ab7abde09915980e00527f"
+    },
+    {
+      "path": "assets/arenas/elim/tiles-background.png",
+      "sha256": "da1de4e1ae1f3cbae51819257a117301ec103e82c92f2c84fa9588d70dfe5a71"
+    },
+    {
+      "path": "assets/arenas/ezion-geber.json",
+      "sha256": "6eb89718360e18b22b082d287e96b382a18f40f8392dc456fc41e798cf61c368"
+    },
+    {
+      "path": "assets/arenas/ezion-geber/background.png",
+      "sha256": "344f064e4df3c364550f49d323615b620c6890215408272e500c7962d81455bb"
+    },
+    {
+      "path": "assets/arenas/ezion-geber/foreground.png",
+      "sha256": "84f507322cee1f482e036b9d7e7c899207760a177cfb463b5da2ea7d8aebc80b"
+    },
+    {
+      "path": "assets/arenas/ezion-geber/presentation.json",
+      "sha256": "fb4d5895d4929569e643b2f2128edd9b5acbbcb94a203f8ec9bf0dbd93c63685"
+    },
+    {
+      "path": "assets/arenas/ezion-geber/tiles-background.png",
+      "sha256": "091c76630ff167e5d4b4e4222253684ee814a91583d33b09f9a04241ac5d781a"
+    },
+    {
+      "path": "assets/arenas/jericho.json",
+      "sha256": "6d9d7fac54411b286ef7cd3a25198430d1df9aad2486ac960bb8f49f98d32a8b"
+    },
+    {
+      "path": "assets/arenas/jericho/background.png",
+      "sha256": "242eecc06d4d19dc63e3a3bc4904bae14e4f42213b8d77253c711caa7726c3b8"
+    },
+    {
+      "path": "assets/arenas/jericho/foreground.png",
+      "sha256": "1ba0914a23d59887579bf8fe246a739e80e3780f8bec13d8917b3589757e2560"
+    },
+    {
+      "path": "assets/arenas/jericho/presentation.json",
+      "sha256": "9ed311fedd0c2430ab8f21257d6cdcd69b6e3ed1fda59c5fd832ed8765688b25"
+    },
+    {
+      "path": "assets/arenas/jericho/tiles-background.png",
+      "sha256": "e56eb299ca93e423c1793e4dcef9e5f4dec3a298eb731b6b48707cf898d29758"
+    },
+    {
+      "path": "assets/arenas/jerusalem.json",
+      "sha256": "8ebef834d441335b41666e774ca7225823adc4c026ad24229877ddbd297dd404"
+    },
+    {
+      "path": "assets/arenas/jerusalem/background.png",
+      "sha256": "2020c5b5a5d073aa66da9a6a7b3649385bc57dfc38f25991c20b4656a2514a2f"
+    },
+    {
+      "path": "assets/arenas/jerusalem/foreground.png",
+      "sha256": "c4648c0a9499f00099c14d066475731763fca9ac26775ec188c60a639bd9e467"
+    },
+    {
+      "path": "assets/arenas/jerusalem/presentation.json",
+      "sha256": "cbadb550fe1a68171d2d8b007ed1c4bca4b14e19c639d35d8554aeb7d969cc38"
+    },
+    {
+      "path": "assets/arenas/jerusalem/tiles-background.png",
+      "sha256": "fc03179837353e91f3cb4687b257b4853c9d840cc7e73b9fc068e6d1d0aa5707"
+    },
+    {
+      "path": "assets/arenas/jordan.json",
+      "sha256": "7eebab9f06eab129d7a2de3f779db15b31c4dcfa8a270399ac18f46f969c17f5"
+    },
+    {
+      "path": "assets/arenas/jordan/background.png",
+      "sha256": "c908a4eba3c4d218a9300672ae412631dc24da896637985e0eb02c42558d4740"
+    },
+    {
+      "path": "assets/arenas/jordan/foreground.png",
+      "sha256": "0493b6ffa93cffe7a7010a8434f3d0c14402f89b5ce00e8b202e5a8ebc1e3762"
+    },
+    {
+      "path": "assets/arenas/jordan/presentation.json",
+      "sha256": "7b95e3cf324f18bcf7523dc51889eb15fd871f6cb1baf3190fb2fda282b015bb"
+    },
+    {
+      "path": "assets/arenas/jordan/tiles-background.png",
+      "sha256": "e6995d6439d56d4e2bb9408684d5e5a93aac31fbf94a24894c7d0a9c658907a7"
+    },
+    {
+      "path": "assets/arenas/kadesh.json",
+      "sha256": "17735d20b7f85a4e598e24362f3da2469ddc6dec0569a3c561e6cc88a1819915"
+    },
+    {
+      "path": "assets/arenas/kadesh/background.png",
+      "sha256": "627b05e02651fbcf948fdd39552a3a1638116113c4dcb4f2c6a7a1d0682bc83d"
+    },
+    {
+      "path": "assets/arenas/kadesh/foreground.png",
+      "sha256": "6e9149e1a740440bd9080ab3c71df1145a385f1f4f0478da3e29f52e0dc8802d"
+    },
+    {
+      "path": "assets/arenas/kadesh/presentation.json",
+      "sha256": "33174bcdb1c0602a3eab9f289dfc5335590f30cbb025bccf7a8fe3bce5b03adc"
+    },
+    {
+      "path": "assets/arenas/kadesh/tiles-background.png",
+      "sha256": "99e0b218fbebf187a67a49a6072d8dcd3470fbb30736b51316505363fca18f1a"
+    },
+    {
+      "path": "assets/arenas/marah.json",
+      "sha256": "a518675cf2505a19be320a5fccf3123291270bbae25aae0eb0ff28af34ae7aea"
+    },
+    {
+      "path": "assets/arenas/marah/background.png",
+      "sha256": "77cf1be503aeb70128e45cf05c31841e537056d1c42e98b5964b620119004d0a"
+    },
+    {
+      "path": "assets/arenas/marah/foreground.png",
+      "sha256": "27d9b55e1aef68c8d9326d2713dd1bf3ef453d3ad9460ec6d83e67b47f744859"
+    },
+    {
+      "path": "assets/arenas/marah/presentation.json",
+      "sha256": "692a9042cfb4a6916a86a5ce9bb18412ed1872748277d5d8eae44448e6b7b944"
+    },
+    {
+      "path": "assets/arenas/marah/tiles-background.png",
+      "sha256": "c0b70c6e5cc57bccf6bf2aa68ef1d283f889521dad01fa656c58a650eb353753"
+    },
+    {
+      "path": "assets/arenas/moab.json",
+      "sha256": "5b957e1847476895e8e37f7ed4b3f6c608d9dc89dc358563d116122b1f5c8bb3"
+    },
+    {
+      "path": "assets/arenas/moab/background.png",
+      "sha256": "e42dfacc1963a735e178ad5b31623ed4125e6ae0fdd78a438fba952defef498d"
+    },
+    {
+      "path": "assets/arenas/moab/foreground.png",
+      "sha256": "507bc1b3cb61e99160f2387534236d57a7c3b754d3b9e3b724b8df213ae1ba42"
+    },
+    {
+      "path": "assets/arenas/moab/presentation.json",
+      "sha256": "574a88a962433033486e95f1d4774c534499991c0af32f96cd78efb5053f457b"
+    },
+    {
+      "path": "assets/arenas/moab/tiles-background.png",
+      "sha256": "bcc3afb152297d7a715ea76625bc142c45892245454c05bc8f011d2f19e98ab2"
+    },
+    {
+      "path": "assets/arenas/nebo.json",
+      "sha256": "c1536aa43efa39f9e7bcaf41809e01fb75d8c0f9a75dbc2a1095b3088953f1a0"
+    },
+    {
+      "path": "assets/arenas/nebo/background.png",
+      "sha256": "351d0daf329e1882379a8e06ee0958a9ecf50bee6c1f3d09e2bb7c087eb82d63"
+    },
+    {
+      "path": "assets/arenas/nebo/foreground.png",
+      "sha256": "dba0b38cbae395d93d6455601ec6f07ee5bff9dcacaa884405f67a8dae384f76"
+    },
+    {
+      "path": "assets/arenas/nebo/presentation.json",
+      "sha256": "692a9042cfb4a6916a86a5ce9bb18412ed1872748277d5d8eae44448e6b7b944"
+    },
+    {
+      "path": "assets/arenas/nebo/tiles-background.png",
+      "sha256": "e0871fa530719f1be4309d26f4111b371ba72719a511a5a23cacf6713aa012fb"
+    },
+    {
+      "path": "assets/arenas/negev.json",
+      "sha256": "5f4efe801ccdd1c831852d5a06f669d3b1b044ba67ab52bd72b8049c054dcc46"
+    },
+    {
+      "path": "assets/arenas/negev/background.png",
+      "sha256": "02fcb712420d490b64552b0229687f0367cd1680b5004bced24baad62ddf5a2d"
+    },
+    {
+      "path": "assets/arenas/negev/foreground.png",
+      "sha256": "d0ea67efe54c2aa7b9ddfd15f795801bf723858b3c6c317dae5685e0fb90435f"
+    },
+    {
+      "path": "assets/arenas/negev/presentation.json",
+      "sha256": "fb985f5157a7775aae776e0944fd5f45956891a4949bf602520bff25d26f40b2"
+    },
+    {
+      "path": "assets/arenas/negev/tiles-background.png",
+      "sha256": "ef882bb719570967e844d78a2d53401fac7702f041e3d18b30c6e83f8503d037"
+    },
+    {
+      "path": "assets/arenas/paran.json",
+      "sha256": "fcdc46e746a9b70e6dc39fbf4126e75a35884ba1d8852f787bcdd4aa9b7e4628"
+    },
+    {
+      "path": "assets/arenas/paran/background.png",
+      "sha256": "9c14161077cd0c35025ebb8c02337484718c98e0818c409435172f0d0f52ad39"
+    },
+    {
+      "path": "assets/arenas/paran/foreground.png",
+      "sha256": "ae2d68dcd34f97a090fb0be4a0027d80193ac9b685e9239bf51e285e831efe5f"
+    },
+    {
+      "path": "assets/arenas/paran/presentation.json",
+      "sha256": "68f4351b7ad635d2e4daeca78c6f4f714d6cde283ccd0011e0420f553388c126"
+    },
+    {
+      "path": "assets/arenas/paran/tiles-background.png",
+      "sha256": "5b696b5273aa4367c724c6cf5a535b888bedfe6b056a3fb090992510709f9af8"
+    },
+    {
+      "path": "assets/arenas/rameses.json",
+      "sha256": "041f9acc626d0b45b0a7059f8b6e77c78d3aa0a62a4b1f031f8012b7d11d3de7"
+    },
+    {
+      "path": "assets/arenas/rameses/background.png",
+      "sha256": "ac5034004ff390084f1bd2e1500d2e8f6275c72aea58fa9ba608f582ebb3bae7"
+    },
+    {
+      "path": "assets/arenas/rameses/foreground.png",
+      "sha256": "9c66da9893249153c7b0a92d780ad7a8ccc7f6b84526bef0b24c131ec1d6d8c9"
+    },
+    {
+      "path": "assets/arenas/rameses/presentation.json",
+      "sha256": "d18c32850175cfd2bca52fba8e27bc8158526eb1c05af905625d15dc2d727559"
+    },
+    {
+      "path": "assets/arenas/rameses/tiles-background.png",
+      "sha256": "bf477388047445d04bfea7da20c4bc39a9f116122fe182c8ab130814c60ccb86"
+    },
+    {
+      "path": "assets/arenas/rephidim.json",
+      "sha256": "f45e059099b03b8105d8440c9781263a6aa608518b943956cad48ea68d90802c"
+    },
+    {
+      "path": "assets/arenas/rephidim/background.png",
+      "sha256": "421ffb9f8c4149a205d1ed01d67f6b20d4d496145c658a3d33c8b3939d818bc1"
+    },
+    {
+      "path": "assets/arenas/rephidim/foreground.png",
+      "sha256": "6f5848bd7de6f4f43d5f2e59436c6047cd283f7c317dded1ef7d421cfda391f6"
+    },
+    {
+      "path": "assets/arenas/rephidim/presentation.json",
+      "sha256": "c61980e3a35fefb97ff0c1557834293a8d7cdbee3954a6b7e77c6838d041ec2d"
+    },
+    {
+      "path": "assets/arenas/rephidim/tiles-background.png",
+      "sha256": "28e0e9f578f6c2ec2edfcaf757b54604b45cbfcb5d1e2fa4bac4cd0ec3f300be"
+    },
+    {
+      "path": "assets/arenas/sea-crossing.json",
+      "sha256": "32586c1f94793a293032720420a109cbe6ffced48ce44386a4462d301d19d654"
+    },
+    {
+      "path": "assets/arenas/sea-crossing/background.png",
+      "sha256": "ca8c7594a27d1a43bc03a2e6e41cdf7393a5c12cfdb30f90b64b460fcaeb06d7"
+    },
+    {
+      "path": "assets/arenas/sea-crossing/foreground.png",
+      "sha256": "32395efd59473001cfecceaae45651b2e29734ca570172ce915442a69cea852f"
+    },
+    {
+      "path": "assets/arenas/sea-crossing/presentation.json",
+      "sha256": "49bc781e972c562cc73f4979f6fe026312528880b178d60ecf70118f2e9e365f"
+    },
+    {
+      "path": "assets/arenas/sea-crossing/tiles-background.png",
+      "sha256": "fa55eeec31e8b808c44ede319c0f9fa6a7b9458cd901aa460484bd54ce93fddd"
+    },
+    {
+      "path": "assets/arenas/sinai.json",
+      "sha256": "90f59ae1d9d9e46f1383cf2b6eb41c402f90ed89206c4300cd43095b18dafdde"
+    },
+    {
+      "path": "assets/arenas/sinai/background.png",
+      "sha256": "a7b2a99cac9b3427ae4b55d8eaf12c4dc58785729e3638bbf188608b468c70d1"
+    },
+    {
+      "path": "assets/arenas/sinai/foreground.png",
+      "sha256": "2457b839b25bddd54a4e078533ac56b0d1b69f0fbd44b8d0e0d53a1af839363f"
+    },
+    {
+      "path": "assets/arenas/sinai/presentation.json",
+      "sha256": "be3cbfb571d797e05cea60339b37d1dd2e305ee76c7330c4e87f03234aaa5c7f"
+    },
+    {
+      "path": "assets/arenas/sinai/tiles-background.png",
+      "sha256": "ef5be91797e64ae8bdcfbb78ed88fdd1c47d8ee0f0c423a15407ec3ce7969a8d"
+    },
+    {
+      "path": "assets/arenas/succoth.json",
+      "sha256": "ef811f15833771d31e2918a013fe580adc06fc2feea9993f505fc742044c9d89"
+    },
+    {
+      "path": "assets/arenas/succoth/background.png",
+      "sha256": "2339279d9c0c522b6afa6ffe7fbf6086eb4265cb2dd7419d944d52185c4067ed"
+    },
+    {
+      "path": "assets/arenas/succoth/foreground.png",
+      "sha256": "cd7469a4f37ad179c8649332599922a8e5ef2d43c11b170324c6d0f9b4ad3401"
+    },
+    {
+      "path": "assets/arenas/succoth/presentation.json",
+      "sha256": "61a0ffd2b0901c010cf635d388e9d81e9541156866ede28d07277b2973587c73"
+    },
+    {
+      "path": "assets/arenas/succoth/tiles-background.png",
+      "sha256": "578cc84ce157a5f0d7f98f789e7f061cda64eb17988f6c07fdcd16bf976f2c02"
+    },
+    {
+      "path": "assets/arenas/wilderness-camps.json",
+      "sha256": "3468167704922870da9e4cd07bb33fe3e189541f7542fa0cc614836df649e9d8"
+    },
+    {
+      "path": "assets/arenas/wilderness-camps/background.png",
+      "sha256": "3fef21c45bef757cd40bbebaf29ae8b0f1671bc3723c841e32ee0ee63136505e"
+    },
+    {
+      "path": "assets/arenas/wilderness-camps/foreground.png",
+      "sha256": "65036332d272d65d0fecbd77f98a94c3e5cc063550d1eeb807dfbbd7c657538f"
+    },
+    {
+      "path": "assets/arenas/wilderness-camps/presentation.json",
+      "sha256": "5c3c9957487cef568add1a960db0fc5452fcc57cd857aacdd4f48a938561c36f"
+    },
+    {
+      "path": "assets/arenas/wilderness-camps/tiles-background.png",
+      "sha256": "8642575f4fbaeeb8de4f941ec24aa5d29dc23c63312f034aa82c6bfdfa0fd674"
+    },
+    {
+      "path": "assets/audio/music/canaan.wav",
+      "sha256": "bd7efba257aafc7d88ee378c835dff51b903218bf87bcf3615649a40f9ec92a6"
+    },
+    {
+      "path": "assets/audio/music/egypt.wav",
+      "sha256": "bec893fa2c7550be4d7e40244c537f12fa4b58104ee0c18137d26ecac3cb9062"
+    },
+    {
+      "path": "assets/audio/music/overture.wav",
+      "sha256": "e2253296b08f31245610198556a9475987740abe03edadbca0773defaa979e97"
+    },
+    {
+      "path": "assets/audio/music/sinai.wav",
+      "sha256": "0d1f0da4ec9a906138d271106442525a87ee4b2476c12a3bdaa967e9c97ea0ba"
+    },
+    {
+      "path": "assets/audio/music/wilderness.wav",
+      "sha256": "388297890de6005341e8c5cdd92c1200dc539abee711dfb5ad4aa001ef6eda11"
+    },
+    {
+      "path": "assets/audio/sfx/ammo-pickup.wav",
+      "sha256": "6a5cff6f091251a103faa8dc0e3f654e3e68dfece8000cefa9cefe2567a17054"
+    },
+    {
+      "path": "assets/audio/sfx/checkpoint.wav",
+      "sha256": "caf05ceb8b9ab414f0e6e087142d24afcb7efe17feaf47c622b06b0c37b1a485"
+    },
+    {
+      "path": "assets/audio/sfx/disc-return.wav",
+      "sha256": "b8263ecad7100800facb85baf2d4e6b57be8869c962d42118d40261acb21b123"
+    },
+    {
+      "path": "assets/audio/sfx/disc-throw.wav",
+      "sha256": "d20b2c88ef9fd961a699082f2f9c7fe40a7a20143fe83e922e3fbf6e29220ac2"
+    },
+    {
+      "path": "assets/audio/sfx/dodge.wav",
+      "sha256": "d00e2a23b843b2277db936e47c4c626337fb94bc5e742bddd83756db83b01ee7"
+    },
+    {
+      "path": "assets/audio/sfx/ember-burst.wav",
+      "sha256": "f3e4a5f12462b416c65b14fbd04c93d68b41f2e507b1d541a680bbb4f02d9fa8"
+    },
+    {
+      "path": "assets/audio/sfx/ember-throw.wav",
+      "sha256": "a5b25ecbdd4e73403af0e66ca8b3cd25c3570e257b67b6472463dba74ab37ed5"
+    },
+    {
+      "path": "assets/audio/sfx/enemy-defeat.wav",
+      "sha256": "5c55eedbc1d7d6d009dc139f5393ee8a0d044421c02b1b50feda65998acde174"
+    },
+    {
+      "path": "assets/audio/sfx/enemy-hit.wav",
+      "sha256": "213b87eb43dc681128f09a7ba4d002e07cf61cb618473f962abc88897316e7ce"
+    },
+    {
+      "path": "assets/audio/sfx/enemy-spawn.wav",
+      "sha256": "04f9a9b7b762575b12cdb3aeba4052de2008e75bea26368e2bb9ddbdd49f0bee"
+    },
+    {
+      "path": "assets/audio/sfx/heal.wav",
+      "sha256": "337bf4b51eb4a6144c9d5c4e89662c6515f1b7945880188e7eb03558a1a6c300"
+    },
+    {
+      "path": "assets/audio/sfx/jawbone-swing.wav",
+      "sha256": "0eaeaba460ad5e03850643479c9b1abc95c2f2ea28d81c38feb918274e20254d"
+    },
+    {
+      "path": "assets/audio/sfx/jump.wav",
+      "sha256": "1eab33b9eed2d84646a3c4c8b1fdfef236b3264ebdbcb24743834a04e9393481"
+    },
+    {
+      "path": "assets/audio/sfx/land.wav",
+      "sha256": "c40eb7fd289b8195a3bf4e937cfcb88fefbd41a9f1102d6e05ec04cee9ee208b"
+    },
+    {
+      "path": "assets/audio/sfx/relic-pickup.wav",
+      "sha256": "934ee02003cdd15865a064a138cb760afc93ccdc71daa407bb9229c96782e83a"
+    },
+    {
+      "path": "assets/audio/sfx/sandals-expire.wav",
+      "sha256": "d34836e856416f8a6414c82842f05397bbe81965b5f2c9c65c9d0e67f9e03050"
+    },
+    {
+      "path": "assets/audio/sfx/seal-recharge.wav",
+      "sha256": "1ad0cb9eff4f2da7b329ddd54051c18b9b11545042722b66e0e14c0d72d82e3f"
+    },
+    {
+      "path": "assets/audio/sfx/shield-break.wav",
+      "sha256": "34dc82009e301ec4336c3b0436885b99e3cba3e6383a25b5642bcdec99e5ec9d"
+    },
+    {
+      "path": "assets/audio/sfx/sling-release.wav",
+      "sha256": "8522493641ed47d19ff34a64beba501e0f73c0514eb18e28cdb69ac92177d955"
+    },
+    {
+      "path": "assets/audio/sfx/spear-release.wav",
+      "sha256": "8f28245e0fb6ce442f28e10e962f6c2798f7f8a5f7f8b19ac91d4cc8f5fb3030"
+    },
+    {
+      "path": "assets/audio/sfx/staff-cast.wav",
+      "sha256": "896d9149ec497eec3e579d48a03703da59fc42b3b2581a10ea0786ff2f042806"
+    },
+    {
+      "path": "assets/audio/sfx/storm-chain.wav",
+      "sha256": "fde16c36a75a30bc0120badeedbf4f98dbbcf2ff0fe32df6d6c43fd6ef40f683"
+    },
+    {
+      "path": "assets/audio/sfx/storm-throw.wav",
+      "sha256": "5516c413913e1d491a56b5178d9992208a10103e7e04d98efc209d178fb01f4f"
+    },
+    {
+      "path": "assets/audio/sfx/ui-back.wav",
+      "sha256": "aa3608f57803b028b09fc344b65e2fcf3a702db5b2b43e5446729c5115d5ada7"
+    },
+    {
+      "path": "assets/audio/sfx/ui-confirm.wav",
+      "sha256": "735048899b629ff47d7f08394dadcb83cfd9be13193c390c413dd64be545baa7"
+    },
+    {
+      "path": "assets/audio/sfx/ui-move.wav",
+      "sha256": "79304019a9a6e04fe0cf3a165c1bb64178853e955d449169f6706f07a684c6de"
+    },
+    {
+      "path": "assets/audio/sfx/weapon-impact.wav",
+      "sha256": "589a78c493215791c86d38b86ed24ff849e2e39f44b133276c9353752f8bdc5d"
+    },
+    {
+      "path": "assets/chapters.json",
+      "sha256": "910c657049a96aaa196a694eafb80accf486b5a59bca7c74c153d8fea62ba60b"
+    },
+    {
+      "path": "assets/encounters.json",
+      "sha256": "8072ed59a853c0993a16282dd209fb806e5bec95bbc8ae0b642842af90c9d036"
+    },
+    {
+      "path": "assets/enemies.png",
+      "sha256": "ddc9fd6aa8f0a89d9440d528801eb2c6a2a14159cc39ca1a0a1632ae02abbbb6"
+    },
+    {
+      "path": "assets/fonts/covenant-compact.xnb",
+      "sha256": "0431baf21600b95510aaa43d4ddf4b91a9fefa4a730c22f497208aa8954a5a7a"
+    },
+    {
+      "path": "assets/map.json",
+      "sha256": "f38db8d98902be739c09f1669839cf104ef82ce52e1f0f8dd4aeecbb285a24e9"
+    },
+    {
+      "path": "assets/overworld.png",
+      "sha256": "27cd5c8c3be84f8ff3f49b399ddaceb4b008d05f15881d4f9f2d16fa3bcb4250"
+    },
+    {
+      "path": "assets/portraits/david.png",
+      "sha256": "bc1c59c586be299b226aee2ecffe280612cd09a1af53f89dbc45670a6d5e5414"
+    },
+    {
+      "path": "assets/portraits/joshua.png",
+      "sha256": "e7b18c1076e6bb08659c842c00b67c1bba37fae84e055024df378cc280e8236c"
+    },
+    {
+      "path": "assets/portraits/moses.png",
+      "sha256": "758ddae5f466a6cabc823c4777ae80bf59a681ab5d85a5a15290b2cbc174322b"
+    },
+    {
+      "path": "assets/portraits/samson.png",
+      "sha256": "bc9edceaf44f11716009dd36486239fd5057ebfc03615d923eff6a94828839cc"
+    }
+  ],
+  "packaged_files": [
+    {
+      "path": "actors/spirit.png",
+      "sha256": "97473405b946883ad914d6b727fa58246012f8eee75e8881d87d4c227ef62f79",
+      "source": "assets/actors/spirit.png"
+    },
+    {
+      "path": "arenas/ai/background.png",
+      "sha256": "3930664ea3961881919e9038f9af164cfe7c662d6f0dc2a7a53c42a900f86389",
+      "source": "assets/arenas/ai/background.png"
+    },
+    {
+      "path": "arenas/ai/foreground.png",
+      "sha256": "8b567f94e76f246cc39cb7f7d6df52a5a6223b202123a38dac2faec7098ba420",
+      "source": "assets/arenas/ai/foreground.png"
+    },
+    {
+      "path": "arenas/ai/presentation.json",
+      "sha256": "49bc781e972c562cc73f4979f6fe026312528880b178d60ecf70118f2e9e365f",
+      "source": "assets/arenas/ai/presentation.json"
+    },
+    {
+      "path": "arenas/ai/tiles-background.png",
+      "sha256": "1b2da439619c44f0347275ff6884cff98c1143719a468383679bab9758d5428f",
+      "source": "assets/arenas/ai/tiles-background.png"
+    },
+    {
+      "path": "arenas/ai.json",
+      "sha256": "d194847f9e9d666a34ff4fe35a4425e8953e4a64a251e0bb6038af47464009a9",
+      "source": "assets/arenas/ai.json"
+    },
+    {
+      "path": "arenas/carmel/background.png",
+      "sha256": "ace71db8a954acbd446f562dc6faf16e89c24509172b67a6096243eb451e4097",
+      "source": "assets/arenas/carmel/background.png"
+    },
+    {
+      "path": "arenas/carmel/foreground.png",
+      "sha256": "773eeba8449e5fce863b2413ab97f9ca1e83373392c07dd1be579980eea09698",
+      "source": "assets/arenas/carmel/foreground.png"
+    },
+    {
+      "path": "arenas/carmel/presentation.json",
+      "sha256": "6057b38876cd91b8e79201264973bd3b69cda41ab622623e61bf7c13214dbd6d",
+      "source": "assets/arenas/carmel/presentation.json"
+    },
+    {
+      "path": "arenas/carmel/tiles-background.png",
+      "sha256": "d64df68c74ef5848ffc80971a143931d2f7e0d61146647ceb9c25fad4c389b27",
+      "source": "assets/arenas/carmel/tiles-background.png"
+    },
+    {
+      "path": "arenas/carmel.json",
+      "sha256": "50520db3b08ed1b841fe48ea6a97d6f1881cf00b82197140ada60e04b8ca86cd",
+      "source": "assets/arenas/carmel.json"
+    },
+    {
+      "path": "arenas/dophkah/background.png",
+      "sha256": "b29d684f5dfc18b9aac212ad1591be3c92ed86e255c48bda21df4fee972f3d70",
+      "source": "assets/arenas/dophkah/background.png"
+    },
+    {
+      "path": "arenas/dophkah/foreground.png",
+      "sha256": "90fe5dcc71da40414c9bb14e556b92cc7f0c4ae66c7b3ed47c9a178d383cef55",
+      "source": "assets/arenas/dophkah/foreground.png"
+    },
+    {
+      "path": "arenas/dophkah/presentation.json",
+      "sha256": "1104e5660976e1de8f0c7b58b1cec7800acf7ec341d8bbeac2b4f325aaabdcea",
+      "source": "assets/arenas/dophkah/presentation.json"
+    },
+    {
+      "path": "arenas/dophkah/tiles-background.png",
+      "sha256": "c3ef7032e1c7ba799b11d7518385f055535b2b7eddbbc277dc6cbe9fe13bc9c5",
+      "source": "assets/arenas/dophkah/tiles-background.png"
+    },
+    {
+      "path": "arenas/dophkah.json",
+      "sha256": "9b067e6fc14880d9a3ee861a43ec1e5020049bc81bbf354010d18be9d3ffda17",
+      "source": "assets/arenas/dophkah.json"
+    },
+    {
+      "path": "arenas/edom/background.png",
+      "sha256": "0515180920cce523fc8af7e3835398192274ab45b50f5c2c7bcb74fb094a1d28",
+      "source": "assets/arenas/edom/background.png"
+    },
+    {
+      "path": "arenas/edom/foreground.png",
+      "sha256": "dc265daa89c4d32eba27df077c16534e7eae87467b37c1d498a6e39a97c2f222",
+      "source": "assets/arenas/edom/foreground.png"
+    },
+    {
+      "path": "arenas/edom/presentation.json",
+      "sha256": "49bc781e972c562cc73f4979f6fe026312528880b178d60ecf70118f2e9e365f",
+      "source": "assets/arenas/edom/presentation.json"
+    },
+    {
+      "path": "arenas/edom/tiles-background.png",
+      "sha256": "9ddf3942b0ad27eaf02b269fbbdb1aa31639143ae579277d47351dc2d0df093b",
+      "source": "assets/arenas/edom/tiles-background.png"
+    },
+    {
+      "path": "arenas/edom.json",
+      "sha256": "17535cda513b71123ab129a498221f50e21d71c4c7a6b7bb90bee4e63c672a45",
+      "source": "assets/arenas/edom.json"
+    },
+    {
+      "path": "arenas/elim/background.png",
+      "sha256": "c5822afba0be76f5d6ab3ab1ffebb3a58b0ca3c6595b4d2900e4a5d59a2cdb04",
+      "source": "assets/arenas/elim/background.png"
+    },
+    {
+      "path": "arenas/elim/foreground.png",
+      "sha256": "f82655e5a305ed1357a89c537cadeb800047a8e96a97cd7e3fdbfb84148ba8a1",
+      "source": "assets/arenas/elim/foreground.png"
+    },
+    {
+      "path": "arenas/elim/presentation.json",
+      "sha256": "43a4b6c21a0a99b9951bb46e42da29fa4247c5d550ab7abde09915980e00527f",
+      "source": "assets/arenas/elim/presentation.json"
+    },
+    {
+      "path": "arenas/elim/tiles-background.png",
+      "sha256": "da1de4e1ae1f3cbae51819257a117301ec103e82c92f2c84fa9588d70dfe5a71",
+      "source": "assets/arenas/elim/tiles-background.png"
+    },
+    {
+      "path": "arenas/elim.json",
+      "sha256": "9a3ffcaa268dea87ce408f9e5543568341f69e80d567dcbfef9c156f62306832",
+      "source": "assets/arenas/elim.json"
+    },
+    {
+      "path": "arenas/ezion-geber/background.png",
+      "sha256": "344f064e4df3c364550f49d323615b620c6890215408272e500c7962d81455bb",
+      "source": "assets/arenas/ezion-geber/background.png"
+    },
+    {
+      "path": "arenas/ezion-geber/foreground.png",
+      "sha256": "84f507322cee1f482e036b9d7e7c899207760a177cfb463b5da2ea7d8aebc80b",
+      "source": "assets/arenas/ezion-geber/foreground.png"
+    },
+    {
+      "path": "arenas/ezion-geber/presentation.json",
+      "sha256": "fb4d5895d4929569e643b2f2128edd9b5acbbcb94a203f8ec9bf0dbd93c63685",
+      "source": "assets/arenas/ezion-geber/presentation.json"
+    },
+    {
+      "path": "arenas/ezion-geber/tiles-background.png",
+      "sha256": "091c76630ff167e5d4b4e4222253684ee814a91583d33b09f9a04241ac5d781a",
+      "source": "assets/arenas/ezion-geber/tiles-background.png"
+    },
+    {
+      "path": "arenas/ezion-geber.json",
+      "sha256": "6eb89718360e18b22b082d287e96b382a18f40f8392dc456fc41e798cf61c368",
+      "source": "assets/arenas/ezion-geber.json"
+    },
+    {
+      "path": "arenas/jericho/background.png",
+      "sha256": "242eecc06d4d19dc63e3a3bc4904bae14e4f42213b8d77253c711caa7726c3b8",
+      "source": "assets/arenas/jericho/background.png"
+    },
+    {
+      "path": "arenas/jericho/foreground.png",
+      "sha256": "1ba0914a23d59887579bf8fe246a739e80e3780f8bec13d8917b3589757e2560",
+      "source": "assets/arenas/jericho/foreground.png"
+    },
+    {
+      "path": "arenas/jericho/presentation.json",
+      "sha256": "9ed311fedd0c2430ab8f21257d6cdcd69b6e3ed1fda59c5fd832ed8765688b25",
+      "source": "assets/arenas/jericho/presentation.json"
+    },
+    {
+      "path": "arenas/jericho/tiles-background.png",
+      "sha256": "e56eb299ca93e423c1793e4dcef9e5f4dec3a298eb731b6b48707cf898d29758",
+      "source": "assets/arenas/jericho/tiles-background.png"
+    },
+    {
+      "path": "arenas/jericho.json",
+      "sha256": "6d9d7fac54411b286ef7cd3a25198430d1df9aad2486ac960bb8f49f98d32a8b",
+      "source": "assets/arenas/jericho.json"
+    },
+    {
+      "path": "arenas/jerusalem/background.png",
+      "sha256": "2020c5b5a5d073aa66da9a6a7b3649385bc57dfc38f25991c20b4656a2514a2f",
+      "source": "assets/arenas/jerusalem/background.png"
+    },
+    {
+      "path": "arenas/jerusalem/foreground.png",
+      "sha256": "c4648c0a9499f00099c14d066475731763fca9ac26775ec188c60a639bd9e467",
+      "source": "assets/arenas/jerusalem/foreground.png"
+    },
+    {
+      "path": "arenas/jerusalem/presentation.json",
+      "sha256": "cbadb550fe1a68171d2d8b007ed1c4bca4b14e19c639d35d8554aeb7d969cc38",
+      "source": "assets/arenas/jerusalem/presentation.json"
+    },
+    {
+      "path": "arenas/jerusalem/tiles-background.png",
+      "sha256": "fc03179837353e91f3cb4687b257b4853c9d840cc7e73b9fc068e6d1d0aa5707",
+      "source": "assets/arenas/jerusalem/tiles-background.png"
+    },
+    {
+      "path": "arenas/jerusalem.json",
+      "sha256": "8ebef834d441335b41666e774ca7225823adc4c026ad24229877ddbd297dd404",
+      "source": "assets/arenas/jerusalem.json"
+    },
+    {
+      "path": "arenas/jordan/background.png",
+      "sha256": "c908a4eba3c4d218a9300672ae412631dc24da896637985e0eb02c42558d4740",
+      "source": "assets/arenas/jordan/background.png"
+    },
+    {
+      "path": "arenas/jordan/foreground.png",
+      "sha256": "0493b6ffa93cffe7a7010a8434f3d0c14402f89b5ce00e8b202e5a8ebc1e3762",
+      "source": "assets/arenas/jordan/foreground.png"
+    },
+    {
+      "path": "arenas/jordan/presentation.json",
+      "sha256": "7b95e3cf324f18bcf7523dc51889eb15fd871f6cb1baf3190fb2fda282b015bb",
+      "source": "assets/arenas/jordan/presentation.json"
+    },
+    {
+      "path": "arenas/jordan/tiles-background.png",
+      "sha256": "e6995d6439d56d4e2bb9408684d5e5a93aac31fbf94a24894c7d0a9c658907a7",
+      "source": "assets/arenas/jordan/tiles-background.png"
+    },
+    {
+      "path": "arenas/jordan.json",
+      "sha256": "7eebab9f06eab129d7a2de3f779db15b31c4dcfa8a270399ac18f46f969c17f5",
+      "source": "assets/arenas/jordan.json"
+    },
+    {
+      "path": "arenas/kadesh/background.png",
+      "sha256": "627b05e02651fbcf948fdd39552a3a1638116113c4dcb4f2c6a7a1d0682bc83d",
+      "source": "assets/arenas/kadesh/background.png"
+    },
+    {
+      "path": "arenas/kadesh/foreground.png",
+      "sha256": "6e9149e1a740440bd9080ab3c71df1145a385f1f4f0478da3e29f52e0dc8802d",
+      "source": "assets/arenas/kadesh/foreground.png"
+    },
+    {
+      "path": "arenas/kadesh/presentation.json",
+      "sha256": "33174bcdb1c0602a3eab9f289dfc5335590f30cbb025bccf7a8fe3bce5b03adc",
+      "source": "assets/arenas/kadesh/presentation.json"
+    },
+    {
+      "path": "arenas/kadesh/tiles-background.png",
+      "sha256": "99e0b218fbebf187a67a49a6072d8dcd3470fbb30736b51316505363fca18f1a",
+      "source": "assets/arenas/kadesh/tiles-background.png"
+    },
+    {
+      "path": "arenas/kadesh.json",
+      "sha256": "17735d20b7f85a4e598e24362f3da2469ddc6dec0569a3c561e6cc88a1819915",
+      "source": "assets/arenas/kadesh.json"
+    },
+    {
+      "path": "arenas/marah/background.png",
+      "sha256": "77cf1be503aeb70128e45cf05c31841e537056d1c42e98b5964b620119004d0a",
+      "source": "assets/arenas/marah/background.png"
+    },
+    {
+      "path": "arenas/marah/foreground.png",
+      "sha256": "27d9b55e1aef68c8d9326d2713dd1bf3ef453d3ad9460ec6d83e67b47f744859",
+      "source": "assets/arenas/marah/foreground.png"
+    },
+    {
+      "path": "arenas/marah/presentation.json",
+      "sha256": "692a9042cfb4a6916a86a5ce9bb18412ed1872748277d5d8eae44448e6b7b944",
+      "source": "assets/arenas/marah/presentation.json"
+    },
+    {
+      "path": "arenas/marah/tiles-background.png",
+      "sha256": "c0b70c6e5cc57bccf6bf2aa68ef1d283f889521dad01fa656c58a650eb353753",
+      "source": "assets/arenas/marah/tiles-background.png"
+    },
+    {
+      "path": "arenas/marah.json",
+      "sha256": "a518675cf2505a19be320a5fccf3123291270bbae25aae0eb0ff28af34ae7aea",
+      "source": "assets/arenas/marah.json"
+    },
+    {
+      "path": "arenas/moab/background.png",
+      "sha256": "e42dfacc1963a735e178ad5b31623ed4125e6ae0fdd78a438fba952defef498d",
+      "source": "assets/arenas/moab/background.png"
+    },
+    {
+      "path": "arenas/moab/foreground.png",
+      "sha256": "507bc1b3cb61e99160f2387534236d57a7c3b754d3b9e3b724b8df213ae1ba42",
+      "source": "assets/arenas/moab/foreground.png"
+    },
+    {
+      "path": "arenas/moab/presentation.json",
+      "sha256": "574a88a962433033486e95f1d4774c534499991c0af32f96cd78efb5053f457b",
+      "source": "assets/arenas/moab/presentation.json"
+    },
+    {
+      "path": "arenas/moab/tiles-background.png",
+      "sha256": "bcc3afb152297d7a715ea76625bc142c45892245454c05bc8f011d2f19e98ab2",
+      "source": "assets/arenas/moab/tiles-background.png"
+    },
+    {
+      "path": "arenas/moab.json",
+      "sha256": "5b957e1847476895e8e37f7ed4b3f6c608d9dc89dc358563d116122b1f5c8bb3",
+      "source": "assets/arenas/moab.json"
+    },
+    {
+      "path": "arenas/nebo/background.png",
+      "sha256": "351d0daf329e1882379a8e06ee0958a9ecf50bee6c1f3d09e2bb7c087eb82d63",
+      "source": "assets/arenas/nebo/background.png"
+    },
+    {
+      "path": "arenas/nebo/foreground.png",
+      "sha256": "dba0b38cbae395d93d6455601ec6f07ee5bff9dcacaa884405f67a8dae384f76",
+      "source": "assets/arenas/nebo/foreground.png"
+    },
+    {
+      "path": "arenas/nebo/presentation.json",
+      "sha256": "692a9042cfb4a6916a86a5ce9bb18412ed1872748277d5d8eae44448e6b7b944",
+      "source": "assets/arenas/nebo/presentation.json"
+    },
+    {
+      "path": "arenas/nebo/tiles-background.png",
+      "sha256": "e0871fa530719f1be4309d26f4111b371ba72719a511a5a23cacf6713aa012fb",
+      "source": "assets/arenas/nebo/tiles-background.png"
+    },
+    {
+      "path": "arenas/nebo.json",
+      "sha256": "c1536aa43efa39f9e7bcaf41809e01fb75d8c0f9a75dbc2a1095b3088953f1a0",
+      "source": "assets/arenas/nebo.json"
+    },
+    {
+      "path": "arenas/negev/background.png",
+      "sha256": "02fcb712420d490b64552b0229687f0367cd1680b5004bced24baad62ddf5a2d",
+      "source": "assets/arenas/negev/background.png"
+    },
+    {
+      "path": "arenas/negev/foreground.png",
+      "sha256": "d0ea67efe54c2aa7b9ddfd15f795801bf723858b3c6c317dae5685e0fb90435f",
+      "source": "assets/arenas/negev/foreground.png"
+    },
+    {
+      "path": "arenas/negev/presentation.json",
+      "sha256": "fb985f5157a7775aae776e0944fd5f45956891a4949bf602520bff25d26f40b2",
+      "source": "assets/arenas/negev/presentation.json"
+    },
+    {
+      "path": "arenas/negev/tiles-background.png",
+      "sha256": "ef882bb719570967e844d78a2d53401fac7702f041e3d18b30c6e83f8503d037",
+      "source": "assets/arenas/negev/tiles-background.png"
+    },
+    {
+      "path": "arenas/negev.json",
+      "sha256": "5f4efe801ccdd1c831852d5a06f669d3b1b044ba67ab52bd72b8049c054dcc46",
+      "source": "assets/arenas/negev.json"
+    },
+    {
+      "path": "arenas/paran/background.png",
+      "sha256": "9c14161077cd0c35025ebb8c02337484718c98e0818c409435172f0d0f52ad39",
+      "source": "assets/arenas/paran/background.png"
+    },
+    {
+      "path": "arenas/paran/foreground.png",
+      "sha256": "ae2d68dcd34f97a090fb0be4a0027d80193ac9b685e9239bf51e285e831efe5f",
+      "source": "assets/arenas/paran/foreground.png"
+    },
+    {
+      "path": "arenas/paran/presentation.json",
+      "sha256": "68f4351b7ad635d2e4daeca78c6f4f714d6cde283ccd0011e0420f553388c126",
+      "source": "assets/arenas/paran/presentation.json"
+    },
+    {
+      "path": "arenas/paran/tiles-background.png",
+      "sha256": "5b696b5273aa4367c724c6cf5a535b888bedfe6b056a3fb090992510709f9af8",
+      "source": "assets/arenas/paran/tiles-background.png"
+    },
+    {
+      "path": "arenas/paran.json",
+      "sha256": "fcdc46e746a9b70e6dc39fbf4126e75a35884ba1d8852f787bcdd4aa9b7e4628",
+      "source": "assets/arenas/paran.json"
+    },
+    {
+      "path": "arenas/rameses/background.png",
+      "sha256": "ac5034004ff390084f1bd2e1500d2e8f6275c72aea58fa9ba608f582ebb3bae7",
+      "source": "assets/arenas/rameses/background.png"
+    },
+    {
+      "path": "arenas/rameses/foreground.png",
+      "sha256": "9c66da9893249153c7b0a92d780ad7a8ccc7f6b84526bef0b24c131ec1d6d8c9",
+      "source": "assets/arenas/rameses/foreground.png"
+    },
+    {
+      "path": "arenas/rameses/presentation.json",
+      "sha256": "d18c32850175cfd2bca52fba8e27bc8158526eb1c05af905625d15dc2d727559",
+      "source": "assets/arenas/rameses/presentation.json"
+    },
+    {
+      "path": "arenas/rameses/tiles-background.png",
+      "sha256": "bf477388047445d04bfea7da20c4bc39a9f116122fe182c8ab130814c60ccb86",
+      "source": "assets/arenas/rameses/tiles-background.png"
+    },
+    {
+      "path": "arenas/rameses.json",
+      "sha256": "041f9acc626d0b45b0a7059f8b6e77c78d3aa0a62a4b1f031f8012b7d11d3de7",
+      "source": "assets/arenas/rameses.json"
+    },
+    {
+      "path": "arenas/rephidim/background.png",
+      "sha256": "421ffb9f8c4149a205d1ed01d67f6b20d4d496145c658a3d33c8b3939d818bc1",
+      "source": "assets/arenas/rephidim/background.png"
+    },
+    {
+      "path": "arenas/rephidim/foreground.png",
+      "sha256": "6f5848bd7de6f4f43d5f2e59436c6047cd283f7c317dded1ef7d421cfda391f6",
+      "source": "assets/arenas/rephidim/foreground.png"
+    },
+    {
+      "path": "arenas/rephidim/presentation.json",
+      "sha256": "c61980e3a35fefb97ff0c1557834293a8d7cdbee3954a6b7e77c6838d041ec2d",
+      "source": "assets/arenas/rephidim/presentation.json"
+    },
+    {
+      "path": "arenas/rephidim/tiles-background.png",
+      "sha256": "28e0e9f578f6c2ec2edfcaf757b54604b45cbfcb5d1e2fa4bac4cd0ec3f300be",
+      "source": "assets/arenas/rephidim/tiles-background.png"
+    },
+    {
+      "path": "arenas/rephidim.json",
+      "sha256": "f45e059099b03b8105d8440c9781263a6aa608518b943956cad48ea68d90802c",
+      "source": "assets/arenas/rephidim.json"
+    },
+    {
+      "path": "arenas/sea-crossing/background.png",
+      "sha256": "ca8c7594a27d1a43bc03a2e6e41cdf7393a5c12cfdb30f90b64b460fcaeb06d7",
+      "source": "assets/arenas/sea-crossing/background.png"
+    },
+    {
+      "path": "arenas/sea-crossing/foreground.png",
+      "sha256": "32395efd59473001cfecceaae45651b2e29734ca570172ce915442a69cea852f",
+      "source": "assets/arenas/sea-crossing/foreground.png"
+    },
+    {
+      "path": "arenas/sea-crossing/presentation.json",
+      "sha256": "49bc781e972c562cc73f4979f6fe026312528880b178d60ecf70118f2e9e365f",
+      "source": "assets/arenas/sea-crossing/presentation.json"
+    },
+    {
+      "path": "arenas/sea-crossing/tiles-background.png",
+      "sha256": "fa55eeec31e8b808c44ede319c0f9fa6a7b9458cd901aa460484bd54ce93fddd",
+      "source": "assets/arenas/sea-crossing/tiles-background.png"
+    },
+    {
+      "path": "arenas/sea-crossing.json",
+      "sha256": "32586c1f94793a293032720420a109cbe6ffced48ce44386a4462d301d19d654",
+      "source": "assets/arenas/sea-crossing.json"
+    },
+    {
+      "path": "arenas/sinai/background.png",
+      "sha256": "a7b2a99cac9b3427ae4b55d8eaf12c4dc58785729e3638bbf188608b468c70d1",
+      "source": "assets/arenas/sinai/background.png"
+    },
+    {
+      "path": "arenas/sinai/foreground.png",
+      "sha256": "2457b839b25bddd54a4e078533ac56b0d1b69f0fbd44b8d0e0d53a1af839363f",
+      "source": "assets/arenas/sinai/foreground.png"
+    },
+    {
+      "path": "arenas/sinai/presentation.json",
+      "sha256": "be3cbfb571d797e05cea60339b37d1dd2e305ee76c7330c4e87f03234aaa5c7f",
+      "source": "assets/arenas/sinai/presentation.json"
+    },
+    {
+      "path": "arenas/sinai/tiles-background.png",
+      "sha256": "ef5be91797e64ae8bdcfbb78ed88fdd1c47d8ee0f0c423a15407ec3ce7969a8d",
+      "source": "assets/arenas/sinai/tiles-background.png"
+    },
+    {
+      "path": "arenas/sinai.json",
+      "sha256": "90f59ae1d9d9e46f1383cf2b6eb41c402f90ed89206c4300cd43095b18dafdde",
+      "source": "assets/arenas/sinai.json"
+    },
+    {
+      "path": "arenas/succoth/background.png",
+      "sha256": "2339279d9c0c522b6afa6ffe7fbf6086eb4265cb2dd7419d944d52185c4067ed",
+      "source": "assets/arenas/succoth/background.png"
+    },
+    {
+      "path": "arenas/succoth/foreground.png",
+      "sha256": "cd7469a4f37ad179c8649332599922a8e5ef2d43c11b170324c6d0f9b4ad3401",
+      "source": "assets/arenas/succoth/foreground.png"
+    },
+    {
+      "path": "arenas/succoth/presentation.json",
+      "sha256": "61a0ffd2b0901c010cf635d388e9d81e9541156866ede28d07277b2973587c73",
+      "source": "assets/arenas/succoth/presentation.json"
+    },
+    {
+      "path": "arenas/succoth/tiles-background.png",
+      "sha256": "578cc84ce157a5f0d7f98f789e7f061cda64eb17988f6c07fdcd16bf976f2c02",
+      "source": "assets/arenas/succoth/tiles-background.png"
+    },
+    {
+      "path": "arenas/succoth.json",
+      "sha256": "ef811f15833771d31e2918a013fe580adc06fc2feea9993f505fc742044c9d89",
+      "source": "assets/arenas/succoth.json"
+    },
+    {
+      "path": "arenas/wilderness-camps/background.png",
+      "sha256": "3fef21c45bef757cd40bbebaf29ae8b0f1671bc3723c841e32ee0ee63136505e",
+      "source": "assets/arenas/wilderness-camps/background.png"
+    },
+    {
+      "path": "arenas/wilderness-camps/foreground.png",
+      "sha256": "65036332d272d65d0fecbd77f98a94c3e5cc063550d1eeb807dfbbd7c657538f",
+      "source": "assets/arenas/wilderness-camps/foreground.png"
+    },
+    {
+      "path": "arenas/wilderness-camps/presentation.json",
+      "sha256": "5c3c9957487cef568add1a960db0fc5452fcc57cd857aacdd4f48a938561c36f",
+      "source": "assets/arenas/wilderness-camps/presentation.json"
+    },
+    {
+      "path": "arenas/wilderness-camps/tiles-background.png",
+      "sha256": "8642575f4fbaeeb8de4f941ec24aa5d29dc23c63312f034aa82c6bfdfa0fd674",
+      "source": "assets/arenas/wilderness-camps/tiles-background.png"
+    },
+    {
+      "path": "arenas/wilderness-camps.json",
+      "sha256": "3468167704922870da9e4cd07bb33fe3e189541f7542fa0cc614836df649e9d8",
+      "source": "assets/arenas/wilderness-camps.json"
+    },
+    {
+      "path": "audio/music/canaan.wav",
+      "sha256": "bd7efba257aafc7d88ee378c835dff51b903218bf87bcf3615649a40f9ec92a6",
+      "source": "assets/audio/music/canaan.wav"
+    },
+    {
+      "path": "audio/music/egypt.wav",
+      "sha256": "bec893fa2c7550be4d7e40244c537f12fa4b58104ee0c18137d26ecac3cb9062",
+      "source": "assets/audio/music/egypt.wav"
+    },
+    {
+      "path": "audio/music/overture.wav",
+      "sha256": "e2253296b08f31245610198556a9475987740abe03edadbca0773defaa979e97",
+      "source": "assets/audio/music/overture.wav"
+    },
+    {
+      "path": "audio/music/sinai.wav",
+      "sha256": "0d1f0da4ec9a906138d271106442525a87ee4b2476c12a3bdaa967e9c97ea0ba",
+      "source": "assets/audio/music/sinai.wav"
+    },
+    {
+      "path": "audio/music/wilderness.wav",
+      "sha256": "388297890de6005341e8c5cdd92c1200dc539abee711dfb5ad4aa001ef6eda11",
+      "source": "assets/audio/music/wilderness.wav"
+    },
+    {
+      "path": "audio/sfx/ammo-pickup.wav",
+      "sha256": "6a5cff6f091251a103faa8dc0e3f654e3e68dfece8000cefa9cefe2567a17054",
+      "source": "assets/audio/sfx/ammo-pickup.wav"
+    },
+    {
+      "path": "audio/sfx/checkpoint.wav",
+      "sha256": "caf05ceb8b9ab414f0e6e087142d24afcb7efe17feaf47c622b06b0c37b1a485",
+      "source": "assets/audio/sfx/checkpoint.wav"
+    },
+    {
+      "path": "audio/sfx/disc-return.wav",
+      "sha256": "b8263ecad7100800facb85baf2d4e6b57be8869c962d42118d40261acb21b123",
+      "source": "assets/audio/sfx/disc-return.wav"
+    },
+    {
+      "path": "audio/sfx/disc-throw.wav",
+      "sha256": "d20b2c88ef9fd961a699082f2f9c7fe40a7a20143fe83e922e3fbf6e29220ac2",
+      "source": "assets/audio/sfx/disc-throw.wav"
+    },
+    {
+      "path": "audio/sfx/dodge.wav",
+      "sha256": "d00e2a23b843b2277db936e47c4c626337fb94bc5e742bddd83756db83b01ee7",
+      "source": "assets/audio/sfx/dodge.wav"
+    },
+    {
+      "path": "audio/sfx/ember-burst.wav",
+      "sha256": "f3e4a5f12462b416c65b14fbd04c93d68b41f2e507b1d541a680bbb4f02d9fa8",
+      "source": "assets/audio/sfx/ember-burst.wav"
+    },
+    {
+      "path": "audio/sfx/ember-throw.wav",
+      "sha256": "a5b25ecbdd4e73403af0e66ca8b3cd25c3570e257b67b6472463dba74ab37ed5",
+      "source": "assets/audio/sfx/ember-throw.wav"
+    },
+    {
+      "path": "audio/sfx/enemy-defeat.wav",
+      "sha256": "5c55eedbc1d7d6d009dc139f5393ee8a0d044421c02b1b50feda65998acde174",
+      "source": "assets/audio/sfx/enemy-defeat.wav"
+    },
+    {
+      "path": "audio/sfx/enemy-hit.wav",
+      "sha256": "213b87eb43dc681128f09a7ba4d002e07cf61cb618473f962abc88897316e7ce",
+      "source": "assets/audio/sfx/enemy-hit.wav"
+    },
+    {
+      "path": "audio/sfx/enemy-spawn.wav",
+      "sha256": "04f9a9b7b762575b12cdb3aeba4052de2008e75bea26368e2bb9ddbdd49f0bee",
+      "source": "assets/audio/sfx/enemy-spawn.wav"
+    },
+    {
+      "path": "audio/sfx/heal.wav",
+      "sha256": "337bf4b51eb4a6144c9d5c4e89662c6515f1b7945880188e7eb03558a1a6c300",
+      "source": "assets/audio/sfx/heal.wav"
+    },
+    {
+      "path": "audio/sfx/jawbone-swing.wav",
+      "sha256": "0eaeaba460ad5e03850643479c9b1abc95c2f2ea28d81c38feb918274e20254d",
+      "source": "assets/audio/sfx/jawbone-swing.wav"
+    },
+    {
+      "path": "audio/sfx/jump.wav",
+      "sha256": "1eab33b9eed2d84646a3c4c8b1fdfef236b3264ebdbcb24743834a04e9393481",
+      "source": "assets/audio/sfx/jump.wav"
+    },
+    {
+      "path": "audio/sfx/land.wav",
+      "sha256": "c40eb7fd289b8195a3bf4e937cfcb88fefbd41a9f1102d6e05ec04cee9ee208b",
+      "source": "assets/audio/sfx/land.wav"
+    },
+    {
+      "path": "audio/sfx/relic-pickup.wav",
+      "sha256": "934ee02003cdd15865a064a138cb760afc93ccdc71daa407bb9229c96782e83a",
+      "source": "assets/audio/sfx/relic-pickup.wav"
+    },
+    {
+      "path": "audio/sfx/sandals-expire.wav",
+      "sha256": "d34836e856416f8a6414c82842f05397bbe81965b5f2c9c65c9d0e67f9e03050",
+      "source": "assets/audio/sfx/sandals-expire.wav"
+    },
+    {
+      "path": "audio/sfx/seal-recharge.wav",
+      "sha256": "1ad0cb9eff4f2da7b329ddd54051c18b9b11545042722b66e0e14c0d72d82e3f",
+      "source": "assets/audio/sfx/seal-recharge.wav"
+    },
+    {
+      "path": "audio/sfx/shield-break.wav",
+      "sha256": "34dc82009e301ec4336c3b0436885b99e3cba3e6383a25b5642bcdec99e5ec9d",
+      "source": "assets/audio/sfx/shield-break.wav"
+    },
+    {
+      "path": "audio/sfx/sling-release.wav",
+      "sha256": "8522493641ed47d19ff34a64beba501e0f73c0514eb18e28cdb69ac92177d955",
+      "source": "assets/audio/sfx/sling-release.wav"
+    },
+    {
+      "path": "audio/sfx/spear-release.wav",
+      "sha256": "8f28245e0fb6ce442f28e10e962f6c2798f7f8a5f7f8b19ac91d4cc8f5fb3030",
+      "source": "assets/audio/sfx/spear-release.wav"
+    },
+    {
+      "path": "audio/sfx/staff-cast.wav",
+      "sha256": "896d9149ec497eec3e579d48a03703da59fc42b3b2581a10ea0786ff2f042806",
+      "source": "assets/audio/sfx/staff-cast.wav"
+    },
+    {
+      "path": "audio/sfx/storm-chain.wav",
+      "sha256": "fde16c36a75a30bc0120badeedbf4f98dbbcf2ff0fe32df6d6c43fd6ef40f683",
+      "source": "assets/audio/sfx/storm-chain.wav"
+    },
+    {
+      "path": "audio/sfx/storm-throw.wav",
+      "sha256": "5516c413913e1d491a56b5178d9992208a10103e7e04d98efc209d178fb01f4f",
+      "source": "assets/audio/sfx/storm-throw.wav"
+    },
+    {
+      "path": "audio/sfx/ui-back.wav",
+      "sha256": "aa3608f57803b028b09fc344b65e2fcf3a702db5b2b43e5446729c5115d5ada7",
+      "source": "assets/audio/sfx/ui-back.wav"
+    },
+    {
+      "path": "audio/sfx/ui-confirm.wav",
+      "sha256": "735048899b629ff47d7f08394dadcb83cfd9be13193c390c413dd64be545baa7",
+      "source": "assets/audio/sfx/ui-confirm.wav"
+    },
+    {
+      "path": "audio/sfx/ui-move.wav",
+      "sha256": "79304019a9a6e04fe0cf3a165c1bb64178853e955d449169f6706f07a684c6de",
+      "source": "assets/audio/sfx/ui-move.wav"
+    },
+    {
+      "path": "audio/sfx/weapon-impact.wav",
+      "sha256": "589a78c493215791c86d38b86ed24ff849e2e39f44b133276c9353752f8bdc5d",
+      "source": "assets/audio/sfx/weapon-impact.wav"
+    },
+    {
+      "path": "chapters.json",
+      "sha256": "910c657049a96aaa196a694eafb80accf486b5a59bca7c74c153d8fea62ba60b",
+      "source": "assets/chapters.json"
+    },
+    {
+      "path": "encounters.json",
+      "sha256": "8072ed59a853c0993a16282dd209fb806e5bec95bbc8ae0b642842af90c9d036",
+      "source": "assets/encounters.json"
+    },
+    {
+      "path": "enemies.png",
+      "sha256": "ddc9fd6aa8f0a89d9440d528801eb2c6a2a14159cc39ca1a0a1632ae02abbbb6",
+      "source": "assets/enemies.png"
+    },
+    {
+      "path": "fonts/covenant-compact.xnb",
+      "sha256": "0431baf21600b95510aaa43d4ddf4b91a9fefa4a730c22f497208aa8954a5a7a",
+      "source": "assets/fonts/covenant-compact.xnb"
+    },
+    {
+      "path": "map.json",
+      "sha256": "f38db8d98902be739c09f1669839cf104ef82ce52e1f0f8dd4aeecbb285a24e9",
+      "source": "assets/map.json"
+    },
+    {
+      "path": "overworld.png",
+      "sha256": "27cd5c8c3be84f8ff3f49b399ddaceb4b008d05f15881d4f9f2d16fa3bcb4250",
+      "source": "assets/overworld.png"
+    },
+    {
+      "path": "portraits/david.png",
+      "sha256": "bc1c59c586be299b226aee2ecffe280612cd09a1af53f89dbc45670a6d5e5414",
+      "source": "assets/portraits/david.png"
+    },
+    {
+      "path": "portraits/joshua.png",
+      "sha256": "e7b18c1076e6bb08659c842c00b67c1bba37fae84e055024df378cc280e8236c",
+      "source": "assets/portraits/joshua.png"
+    },
+    {
+      "path": "portraits/moses.png",
+      "sha256": "758ddae5f466a6cabc823c4777ae80bf59a681ab5d85a5a15290b2cbc174322b",
+      "source": "assets/portraits/moses.png"
+    },
+    {
+      "path": "portraits/samson.png",
+      "sha256": "bc9edceaf44f11716009dd36486239fd5057ebfc03615d923eff6a94828839cc",
+      "source": "assets/portraits/samson.png"
+    }
+  ]
+}

@@ -1,0 +1,5261 @@
+{
+  "trace": [
+    {
+      "frame": 0,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 211
+      },
+      "ghost": null
+    },
+    {
+      "frame": 1,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 210
+      },
+      "ghost": null
+    },
+    {
+      "frame": 2,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 210
+      },
+      "ghost": null
+    },
+    {
+      "frame": 3,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 210
+      },
+      "ghost": null
+    },
+    {
+      "frame": 4,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 210
+      },
+      "ghost": null
+    },
+    {
+      "frame": 5,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 210
+      },
+      "ghost": null
+    },
+    {
+      "frame": 6,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 210
+      },
+      "ghost": null
+    },
+    {
+      "frame": 7,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 210
+      },
+      "ghost": null
+    },
+    {
+      "frame": 8,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 211
+      },
+      "ghost": null
+    },
+    {
+      "frame": 9,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 211
+      },
+      "ghost": null
+    },
+    {
+      "frame": 10,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": null
+    },
+    {
+      "frame": 11,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": null
+    },
+    {
+      "frame": 12,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": null
+    },
+    {
+      "frame": 13,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": null
+    },
+    {
+      "frame": 14,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": null
+    },
+    {
+      "frame": 15,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": null
+    },
+    {
+      "frame": 16,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": null
+    },
+    {
+      "frame": 17,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": null
+    },
+    {
+      "frame": 18,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": null
+    },
+    {
+      "frame": 19,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": null
+    },
+    {
+      "frame": 20,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": null
+    },
+    {
+      "frame": 21,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": null
+    },
+    {
+      "frame": 22,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": null
+    },
+    {
+      "frame": 23,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": null
+    },
+    {
+      "frame": 24,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": null
+    },
+    {
+      "frame": 25,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": null
+    },
+    {
+      "frame": 26,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": null
+    },
+    {
+      "frame": 27,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": null
+    },
+    {
+      "frame": 28,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": null
+    },
+    {
+      "frame": 29,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": null
+    },
+    {
+      "frame": 30,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": null
+    },
+    {
+      "frame": 31,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": null
+    },
+    {
+      "frame": 32,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": null
+    },
+    {
+      "frame": 33,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": null
+    },
+    {
+      "frame": 34,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": null
+    },
+    {
+      "frame": 35,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": null
+    },
+    {
+      "frame": 36,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": null
+    },
+    {
+      "frame": 37,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": null
+    },
+    {
+      "frame": 38,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": null
+    },
+    {
+      "frame": 39,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": null
+    },
+    {
+      "frame": 40,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": null
+    },
+    {
+      "frame": 41,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": null
+    },
+    {
+      "frame": 42,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": null
+    },
+    {
+      "frame": 43,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": null
+    },
+    {
+      "frame": 44,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": null
+    },
+    {
+      "frame": 45,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": null
+    },
+    {
+      "frame": 46,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": null
+    },
+    {
+      "frame": 47,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": null
+    },
+    {
+      "frame": 48,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": null
+    },
+    {
+      "frame": 49,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": null
+    },
+    {
+      "frame": 50,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": null
+    },
+    {
+      "frame": 51,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": null
+    },
+    {
+      "frame": 52,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": null
+    },
+    {
+      "frame": 53,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": null
+    },
+    {
+      "frame": 54,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": null
+    },
+    {
+      "frame": 55,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": null
+    },
+    {
+      "frame": 56,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": null
+    },
+    {
+      "frame": 57,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": null
+    },
+    {
+      "frame": 58,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": null
+    },
+    {
+      "frame": 59,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": null
+    },
+    {
+      "frame": 60,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": null
+    },
+    {
+      "frame": 61,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": null
+    },
+    {
+      "frame": 62,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 80,
+        "Y": 214,
+        "vx": 0,
+        "vy": -1.95,
+        "State": 0,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 30,
+        "cooldown": 0,
+        "remainderX": 0,
+        "remainderY": 0.049999952
+      }
+    },
+    {
+      "frame": 63,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 80,
+        "Y": 212,
+        "vx": 0,
+        "vy": -1.9000001,
+        "State": 0,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 30,
+        "cooldown": 0,
+        "remainderX": 0,
+        "remainderY": 0.14999986
+      }
+    },
+    {
+      "frame": 64,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 80,
+        "Y": 210,
+        "vx": 0,
+        "vy": -1.8500001,
+        "State": 0,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 30,
+        "cooldown": 0,
+        "remainderX": 0,
+        "remainderY": 0.2999997
+      }
+    },
+    {
+      "frame": 65,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 80,
+        "Y": 208,
+        "vx": 0,
+        "vy": -1.8000002,
+        "State": 0,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 30,
+        "cooldown": 0,
+        "remainderX": 0,
+        "remainderY": 0.49999952
+      }
+    },
+    {
+      "frame": 66,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 80,
+        "Y": 207,
+        "vx": 0,
+        "vy": -1.7500002,
+        "State": 0,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 30,
+        "cooldown": 0,
+        "remainderX": 0,
+        "remainderY": -0.25000072
+      }
+    },
+    {
+      "frame": 67,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 80,
+        "Y": 205,
+        "vx": 0,
+        "vy": -1.7000003,
+        "State": 0,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 30,
+        "cooldown": 0,
+        "remainderX": 0,
+        "remainderY": 0.049999
+      }
+    },
+    {
+      "frame": 68,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 80,
+        "Y": 203,
+        "vx": 0,
+        "vy": -1.6500003,
+        "State": 0,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 30,
+        "cooldown": 0,
+        "remainderX": 0,
+        "remainderY": 0.39999866
+      }
+    },
+    {
+      "frame": 69,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 80,
+        "Y": 202,
+        "vx": 0,
+        "vy": -1.6000004,
+        "State": 0,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 30,
+        "cooldown": 0,
+        "remainderX": 0,
+        "remainderY": -0.20000172
+      }
+    },
+    {
+      "frame": 70,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 80,
+        "Y": 200,
+        "vx": 0,
+        "vy": -1.5500004,
+        "State": 0,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 30,
+        "cooldown": 0,
+        "remainderX": 0,
+        "remainderY": 0.24999785
+      }
+    },
+    {
+      "frame": 71,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 80,
+        "Y": 199,
+        "vx": 0,
+        "vy": -1.5000005,
+        "State": 0,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 30,
+        "cooldown": 0,
+        "remainderX": 0,
+        "remainderY": -0.25000262
+      }
+    },
+    {
+      "frame": 72,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 80,
+        "Y": 197,
+        "vx": 0,
+        "vy": -1.4500005,
+        "State": 0,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 30,
+        "cooldown": 0,
+        "remainderX": 0,
+        "remainderY": 0.29999685
+      }
+    },
+    {
+      "frame": 73,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 80,
+        "Y": 196,
+        "vx": 0,
+        "vy": -1.4000006,
+        "State": 0,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 30,
+        "cooldown": 0,
+        "remainderX": 0,
+        "remainderY": -0.10000372
+      }
+    },
+    {
+      "frame": 74,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 80,
+        "Y": 195,
+        "vx": 0,
+        "vy": -1.3500006,
+        "State": 0,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 30,
+        "cooldown": 0,
+        "remainderX": 0,
+        "remainderY": -0.45000434
+      }
+    },
+    {
+      "frame": 75,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 80,
+        "Y": 193,
+        "vx": 0,
+        "vy": -1.3000007,
+        "State": 0,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 30,
+        "cooldown": 0,
+        "remainderX": 0,
+        "remainderY": 0.249995
+      }
+    },
+    {
+      "frame": 76,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 80,
+        "Y": 192,
+        "vx": 0,
+        "vy": -1.2500007,
+        "State": 0,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 30,
+        "cooldown": 0,
+        "remainderX": 0,
+        "remainderY": -5.722046e-06
+      }
+    },
+    {
+      "frame": 77,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 80,
+        "Y": 191,
+        "vx": 0,
+        "vy": -1.2000008,
+        "State": 0,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 30,
+        "cooldown": 0,
+        "remainderX": 0,
+        "remainderY": -0.20000648
+      }
+    },
+    {
+      "frame": 78,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 80,
+        "Y": 190,
+        "vx": 0,
+        "vy": -1.1500008,
+        "State": 0,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 30,
+        "cooldown": 0,
+        "remainderX": 0,
+        "remainderY": -0.3500073
+      }
+    },
+    {
+      "frame": 79,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 80,
+        "Y": 189,
+        "vx": 0,
+        "vy": -1.1000009,
+        "State": 0,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 30,
+        "cooldown": 0,
+        "remainderX": 0,
+        "remainderY": -0.45000815
+      }
+    },
+    {
+      "frame": 80,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 80,
+        "Y": 187,
+        "vx": 0,
+        "vy": -1.0500009,
+        "State": 0,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 30,
+        "cooldown": 0,
+        "remainderX": 0,
+        "remainderY": 0.49999094
+      }
+    },
+    {
+      "frame": 81,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 80,
+        "Y": 186,
+        "vx": 0,
+        "vy": -1.000001,
+        "State": 0,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 30,
+        "cooldown": 0,
+        "remainderX": 0,
+        "remainderY": 0.49999
+      }
+    },
+    {
+      "frame": 82,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 80,
+        "Y": 186,
+        "vx": 0,
+        "vy": -0.95000094,
+        "State": 0,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 30,
+        "cooldown": 0,
+        "remainderX": 0,
+        "remainderY": -0.45001096
+      }
+    },
+    {
+      "frame": 83,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 80,
+        "Y": 185,
+        "vx": 0,
+        "vy": -0.90000093,
+        "State": 0,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 30,
+        "cooldown": 0,
+        "remainderX": 0,
+        "remainderY": -0.35001183
+      }
+    },
+    {
+      "frame": 84,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 80,
+        "Y": 184,
+        "vx": 0,
+        "vy": -0.8500009,
+        "State": 0,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 30,
+        "cooldown": 0,
+        "remainderX": 0,
+        "remainderY": -0.20001268
+      }
+    },
+    {
+      "frame": 85,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 80,
+        "Y": 183,
+        "vx": 0,
+        "vy": -0.8000009,
+        "State": 0,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 30,
+        "cooldown": 0,
+        "remainderX": 0,
+        "remainderY": -1.3589859e-05
+      }
+    },
+    {
+      "frame": 86,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 80,
+        "Y": 182,
+        "vx": 0,
+        "vy": -0.7500009,
+        "State": 0,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 30,
+        "cooldown": 0,
+        "remainderX": 0,
+        "remainderY": 0.24998552
+      }
+    },
+    {
+      "frame": 87,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 80,
+        "Y": 182,
+        "vx": 0,
+        "vy": -0.7000009,
+        "State": 0,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 30,
+        "cooldown": 0,
+        "remainderX": 0,
+        "remainderY": -0.45001537
+      }
+    },
+    {
+      "frame": 88,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 80,
+        "Y": 181,
+        "vx": 0,
+        "vy": -0.6500009,
+        "State": 0,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 30,
+        "cooldown": 0,
+        "remainderX": 0,
+        "remainderY": -0.10001624
+      }
+    },
+    {
+      "frame": 89,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 80,
+        "Y": 180,
+        "vx": 0,
+        "vy": -0.60000086,
+        "State": 0,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 30,
+        "cooldown": 0,
+        "remainderX": 0,
+        "remainderY": 0.2999829
+      }
+    },
+    {
+      "frame": 90,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 80,
+        "Y": 180,
+        "vx": 0,
+        "vy": -0.55000085,
+        "State": 0,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 30,
+        "cooldown": 0,
+        "remainderX": 0,
+        "remainderY": -0.25001794
+      }
+    },
+    {
+      "frame": 91,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 80,
+        "Y": 179,
+        "vx": 0,
+        "vy": -0.50000083,
+        "State": 0,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 30,
+        "cooldown": 0,
+        "remainderX": 0,
+        "remainderY": 0.24998122
+      }
+    },
+    {
+      "frame": 92,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 80,
+        "Y": 179,
+        "vx": 0,
+        "vy": -0.45000082,
+        "State": 0,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 30,
+        "cooldown": 0,
+        "remainderX": 0,
+        "remainderY": -0.2000196
+      }
+    },
+    {
+      "frame": 93,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 80,
+        "Y": 178,
+        "vx": 0,
+        "vy": -0.45000082,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 29,
+        "cooldown": 0,
+        "remainderX": 0,
+        "remainderY": 0.34997958
+      }
+    },
+    {
+      "frame": 94,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 80,
+        "Y": 178,
+        "vx": 0,
+        "vy": -0.15000081,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 28,
+        "cooldown": 0,
+        "remainderX": -0.06180312,
+        "remainderY": 0.3975165
+      }
+    },
+    {
+      "frame": 95,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 80,
+        "Y": 179,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 27,
+        "cooldown": 0,
+        "remainderX": -0.14315017,
+        "remainderY": -0.40685397
+      }
+    },
+    {
+      "frame": 96,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 80,
+        "Y": 179,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 26,
+        "cooldown": 0,
+        "remainderX": -0.24314988,
+        "remainderY": -0.21366876
+      }
+    },
+    {
+      "frame": 97,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 80,
+        "Y": 179,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 25,
+        "cooldown": 0,
+        "remainderX": -0.36070663,
+        "remainderY": -0.023457408
+      }
+    },
+    {
+      "frame": 98,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 80,
+        "Y": 179,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 24,
+        "cooldown": 0,
+        "remainderX": -0.49453247,
+        "remainderY": 0.16325875
+      }
+    },
+    {
+      "frame": 99,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 79,
+        "Y": 179,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 23,
+        "cooldown": 0,
+        "remainderX": 0.35683882,
+        "remainderY": 0.34596792
+      }
+    },
+    {
+      "frame": 100,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 79,
+        "Y": 180,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 22,
+        "cooldown": 0,
+        "remainderX": 0.19503567,
+        "remainderY": -0.47583067
+      }
+    },
+    {
+      "frame": 101,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 79,
+        "Y": 180,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 21,
+        "cooldown": 0,
+        "remainderX": 0.021830812,
+        "remainderY": -0.30262548
+      }
+    },
+    {
+      "frame": 102,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 79,
+        "Y": 180,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 20,
+        "cooldown": 0,
+        "remainderX": -0.16087809,
+        "remainderY": -0.13489123
+      }
+    },
+    {
+      "frame": 103,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 79,
+        "Y": 180,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 19,
+        "cooldown": 0,
+        "remainderX": -0.35108924,
+        "remainderY": 0.026912317
+      }
+    },
+    {
+      "frame": 104,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 78,
+        "Y": 180,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 18,
+        "cooldown": 0,
+        "remainderX": 0.45328134,
+        "remainderY": 0.18234167
+      }
+    },
+    {
+      "frame": 105,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 78,
+        "Y": 180,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 17,
+        "cooldown": 0,
+        "remainderX": 0.254377,
+        "remainderY": 0.33097082
+      }
+    },
+    {
+      "frame": 106,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 78,
+        "Y": 180,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 16,
+        "cooldown": 0,
+        "remainderX": 0.054377005,
+        "remainderY": 0.47239238
+      }
+    },
+    {
+      "frame": 107,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 78,
+        "Y": 181,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 15,
+        "cooldown": 0,
+        "remainderX": -0.14452744,
+        "remainderY": -0.3937813
+      }
+    },
+    {
+      "frame": 108,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 78,
+        "Y": 181,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 14,
+        "cooldown": 0,
+        "remainderX": -0.3401571,
+        "remainderY": -0.26791698
+      }
+    },
+    {
+      "frame": 109,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 77,
+        "Y": 181,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 13,
+        "cooldown": 0,
+        "remainderX": 0.46963143,
+        "remainderY": -0.15035966
+      }
+    },
+    {
+      "frame": 110,
+      "input": {
+        "x": 1,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 78,
+        "Y": 181,
+        "vx": 0.3,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 12,
+        "cooldown": 0,
+        "remainderX": -0.41307795,
+        "remainderY": -0.041431576
+      }
+    },
+    {
+      "frame": 111,
+      "input": {
+        "x": 1,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 78,
+        "Y": 181,
+        "vx": 0.6,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 11,
+        "cooldown": 0,
+        "remainderX": 0.013716698,
+        "remainderY": 0.058568723
+      }
+    },
+    {
+      "frame": 112,
+      "input": {
+        "x": 1,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 79,
+        "Y": 181,
+        "vx": 0.90000004,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 10,
+        "cooldown": 0,
+        "remainderX": -0.24808711,
+        "remainderY": 0.14936714
+      }
+    },
+    {
+      "frame": 113,
+      "input": {
+        "x": 1,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 80,
+        "Y": 181,
+        "vx": 1.2,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 9,
+        "cooldown": 0,
+        "remainderX": -0.19671655,
+        "remainderY": 0.2307148
+      }
+    },
+    {
+      "frame": 114,
+      "input": {
+        "x": 1,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 81,
+        "Y": 181,
+        "vx": 1.5,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 8,
+        "cooldown": 0,
+        "remainderX": 0.16945672,
+        "remainderY": 0.30238873
+      }
+    },
+    {
+      "frame": 115,
+      "input": {
+        "x": 1,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 83,
+        "Y": 181,
+        "vx": 1.62,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.62,
+        "killDelay": 7,
+        "cooldown": 0,
+        "remainderX": -0.32810092,
+        "remainderY": 0.3641925
+      }
+    },
+    {
+      "frame": 116,
+      "input": {
+        "x": 1,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 84,
+        "Y": 181,
+        "vx": 1.64,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.64,
+        "killDelay": 6,
+        "cooldown": 0,
+        "remainderX": 0.21189833,
+        "remainderY": 0.41595668
+      }
+    },
+    {
+      "frame": 117,
+      "input": {
+        "x": 1,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 86,
+        "Y": 181,
+        "vx": 1.66,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.66,
+        "killDelay": 5,
+        "cooldown": 0,
+        "remainderX": -0.20944977,
+        "remainderY": 0.4575394
+      }
+    },
+    {
+      "frame": 118,
+      "input": {
+        "x": 1,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 87,
+        "Y": 181,
+        "vx": 1.68,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.68,
+        "killDelay": 4,
+        "cooldown": 0,
+        "remainderX": 0.408746,
+        "remainderY": 0.48882672
+      }
+    },
+    {
+      "frame": 119,
+      "input": {
+        "x": 1,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 89,
+        "Y": 182,
+        "vx": 1.6999999,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.6999999,
+        "killDelay": 3,
+        "cooldown": 0,
+        "remainderX": 0.06716275,
+        "remainderY": -0.49026716
+      }
+    },
+    {
+      "frame": 120,
+      "input": {
+        "x": 1,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 91,
+        "Y": 182,
+        "vx": 1.7199999,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.7199999,
+        "killDelay": 2,
+        "cooldown": 0,
+        "remainderX": -0.2337439,
+        "remainderY": -0.4797995
+      }
+    },
+    {
+      "frame": 121,
+      "input": {
+        "x": 1,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 93,
+        "Y": 182,
+        "vx": 1.7399999,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.7399999,
+        "killDelay": 1,
+        "cooldown": 0,
+        "remainderX": -0.49374497,
+        "remainderY": -0.47979906
+      }
+    },
+    {
+      "frame": 122,
+      "input": {
+        "x": 1,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 94,
+        "Y": 182,
+        "vx": 1.7599999,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.7599999,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": 0.28715968,
+        "remainderY": -0.4902658
+      }
+    },
+    {
+      "frame": 123,
+      "input": {
+        "x": 1,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 96,
+        "Y": 181,
+        "vx": 1.7799999,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.7799999,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": 0.10874081,
+        "remainderY": 0.48882902
+      }
+    },
+    {
+      "frame": 124,
+      "input": {
+        "x": 1,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 98,
+        "Y": 181,
+        "vx": 1.7999998,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.7999998,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": -0.029456854,
+        "remainderY": 0.4575426
+      }
+    },
+    {
+      "frame": 125,
+      "input": {
+        "x": 1,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 100,
+        "Y": 181,
+        "vx": 1.8199998,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.8199998,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": -0.12811065,
+        "remainderY": 0.41596076
+      }
+    },
+    {
+      "frame": 126,
+      "input": {
+        "x": 1,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 102,
+        "Y": 181,
+        "vx": 1.8399998,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.8399998,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": -0.18811178,
+        "remainderY": 0.36419746
+      }
+    },
+    {
+      "frame": 127,
+      "input": {
+        "x": 1,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 104,
+        "Y": 181,
+        "vx": 1.8599998,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.8599998,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": -0.21055579,
+        "remainderY": 0.30239457
+      }
+    },
+    {
+      "frame": 128,
+      "input": {
+        "x": 1,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 106,
+        "Y": 181,
+        "vx": 1.8799998,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.8799998,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": -0.19673073,
+        "remainderY": 0.23072147
+      }
+    },
+    {
+      "frame": 129,
+      "input": {
+        "x": 1,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 108,
+        "Y": 181,
+        "vx": 1.8999997,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.8999997,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": -0.14810276,
+        "remainderY": 0.14937465
+      }
+    },
+    {
+      "frame": 130,
+      "input": {
+        "x": 1,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 110,
+        "Y": 181,
+        "vx": 1.9199997,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.9199997,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": -0.06630027,
+        "remainderY": 0.058577053
+      }
+    },
+    {
+      "frame": 131,
+      "input": {
+        "x": 1,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 112,
+        "Y": 181,
+        "vx": 1.9399997,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.9399997,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": 0.04690385,
+        "remainderY": -0.04142245
+      }
+    },
+    {
+      "frame": 132,
+      "input": {
+        "x": 1,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 114,
+        "Y": 181,
+        "vx": 1.9599997,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.9599997,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": 0.18961215,
+        "remainderY": -0.15034977
+      }
+    },
+    {
+      "frame": 133,
+      "input": {
+        "x": 1,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 116,
+        "Y": 181,
+        "vx": 1.9799997,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.9799997,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": 0.35982275,
+        "remainderY": -0.26790634
+      }
+    },
+    {
+      "frame": 134,
+      "input": {
+        "x": 1,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 119,
+        "Y": 181,
+        "vx": 1.9999996,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.9999996,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": -0.44454837,
+        "remainderY": -0.39376992
+      }
+    },
+    {
+      "frame": 135,
+      "input": {
+        "x": 1,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 121,
+        "Y": 180,
+        "vx": 2.0199997,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 2.0199997,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": -0.22564435,
+        "remainderY": 0.47240442
+      }
+    },
+    {
+      "frame": 136,
+      "input": {
+        "x": 1,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 123,
+        "Y": 180,
+        "vx": 2.0399997,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 2.0399997,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": 0.014355421,
+        "remainderY": 0.33098352
+      }
+    },
+    {
+      "frame": 137,
+      "input": {
+        "x": 1,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 125,
+        "Y": 180,
+        "vx": 2.0599997,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 2.0599997,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": 0.27325964,
+        "remainderY": 0.18235499
+      }
+    },
+    {
+      "frame": 138,
+      "input": {
+        "x": 1,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 128,
+        "Y": 180,
+        "vx": 2.0799997,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 2.0799997,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": -0.45111084,
+        "remainderY": 0.026926205
+      }
+    },
+    {
+      "frame": 139,
+      "input": {
+        "x": 1,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 130,
+        "Y": 180,
+        "vx": 2.0999997,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 2.0999997,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": -0.1608994,
+        "remainderY": -0.13487683
+      }
+    },
+    {
+      "frame": 140,
+      "input": {
+        "x": 1,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 132,
+        "Y": 180,
+        "vx": 2.1199996,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 2.1199996,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": 0.1418097,
+        "remainderY": -0.30261064
+      }
+    },
+    {
+      "frame": 141,
+      "input": {
+        "x": 1,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 134,
+        "Y": 180,
+        "vx": 2.1399996,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 2.1399996,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": 0.45501494,
+        "remainderY": -0.47581545
+      }
+    },
+    {
+      "frame": 142,
+      "input": {
+        "x": 1,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 137,
+        "Y": 179,
+        "vx": 2.1599996,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 2.1599996,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": -0.22318149,
+        "remainderY": 0.3459835
+      }
+    },
+    {
+      "frame": 143,
+      "input": {
+        "x": 1,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 139,
+        "Y": 179,
+        "vx": 2.1799996,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 2.1799996,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": 0.10544777,
+        "remainderY": 0.1632746
+      }
+    },
+    {
+      "frame": 144,
+      "input": {
+        "x": 1,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 141,
+        "Y": 179,
+        "vx": 2.1999996,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 2.1999996,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": 0.43927407,
+        "remainderY": -0.02344133
+      }
+    },
+    {
+      "frame": 145,
+      "input": {
+        "x": 1,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 144,
+        "Y": 179,
+        "vx": 2.2199996,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 2.2199996,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": -0.22316861,
+        "remainderY": -0.2136525
+      }
+    },
+    {
+      "frame": 146,
+      "input": {
+        "x": 1,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 146,
+        "Y": 179,
+        "vx": 2.2399995,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 2.2399995,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": 0.11683154,
+        "remainderY": -0.40683758
+      }
+    },
+    {
+      "frame": 147,
+      "input": {
+        "x": 1,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 148,
+        "Y": 178,
+        "vx": 2.2599995,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 2.2599995,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": 0.458179,
+        "remainderY": 0.39753294
+      }
+    },
+    {
+      "frame": 148,
+      "input": {
+        "x": 1,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 151,
+        "Y": 178,
+        "vx": 2.2799995,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 2.2799995,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": -0.20001757,
+        "remainderY": 0.19999531
+      }
+    },
+    {
+      "frame": 149,
+      "input": {
+        "x": 1,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 153,
+        "Y": 178,
+        "vx": 2.2999995,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 2.2999995,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": 0.14156485,
+        "remainderY": 0.0010909587
+      }
+    },
+    {
+      "frame": 150,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 155,
+        "Y": 178,
+        "vx": 1.9999995,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": 0.16247058,
+        "remainderY": -0.19863494
+      }
+    },
+    {
+      "frame": 151,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 157,
+        "Y": 178,
+        "vx": 1.6999996,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": -0.13752949,
+        "remainderY": -0.39863494
+      }
+    },
+    {
+      "frame": 152,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 158,
+        "Y": 177,
+        "vx": 1.3999996,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": 0.24156475,
+        "remainderY": 0.40163916
+      }
+    },
+    {
+      "frame": 153,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 159,
+        "Y": 177,
+        "vx": 1.0999997,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": 0.2999823,
+        "remainderY": 0.20273477
+      }
+    },
+    {
+      "frame": 154,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 160,
+        "Y": 177,
+        "vx": 0.79999965,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": 0.038178682,
+        "remainderY": 0.005197078
+      }
+    },
+    {
+      "frame": 155,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 160,
+        "Y": 177,
+        "vx": 0.49999964,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": 0.45683107,
+        "remainderY": -0.19043244
+      }
+    },
+    {
+      "frame": 156,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 161,
+        "Y": 177,
+        "vx": 0.19999963,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": -0.4431693,
+        "remainderY": -0.3836176
+      }
+    },
+    {
+      "frame": 157,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 160,
+        "Y": 176,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": 0.4392736,
+        "remainderY": 0.42617106
+      }
+    },
+    {
+      "frame": 158,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 160,
+        "Y": 176,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": 0.30544737,
+        "remainderY": 0.239455
+      }
+    },
+    {
+      "frame": 159,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 160,
+        "Y": 176,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": 0.15681827,
+        "remainderY": 0.056745946
+      }
+    },
+    {
+      "frame": 160,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 160,
+        "Y": 176,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": -0.004985288,
+        "remainderY": -0.1214553
+      }
+    },
+    {
+      "frame": 161,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 160,
+        "Y": 176,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": -0.17819054,
+        "remainderY": -0.2946603
+      }
+    },
+    {
+      "frame": 162,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 160,
+        "Y": 176,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": -0.3608998,
+        "remainderY": -0.4623943
+      }
+    },
+    {
+      "frame": 163,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 159,
+        "Y": 175,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": 0.44888872,
+        "remainderY": 0.37580246
+      }
+    },
+    {
+      "frame": 164,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 159,
+        "Y": 175,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": 0.25325906,
+        "remainderY": 0.22037344
+      }
+    },
+    {
+      "frame": 165,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 159,
+        "Y": 175,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": 0.054354623,
+        "remainderY": 0.07174468
+      }
+    },
+    {
+      "frame": 166,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 159,
+        "Y": 175,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": -0.14564538,
+        "remainderY": -0.06967643
+      }
+    },
+    {
+      "frame": 167,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 159,
+        "Y": 175,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": -0.3445497,
+        "remainderY": -0.20350225
+      }
+    },
+    {
+      "frame": 168,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 158,
+        "Y": 175,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": 0.459821,
+        "remainderY": -0.329366
+      }
+    },
+    {
+      "frame": 169,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 158,
+        "Y": 175,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": 0.26960996,
+        "remainderY": -0.4469227
+      }
+    },
+    {
+      "frame": 170,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 158,
+        "Y": 174,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": 0.08690126,
+        "remainderY": 0.4441499
+      }
+    },
+    {
+      "frame": 171,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 158,
+        "Y": 174,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": -0.08630329,
+        "remainderY": 0.34415036
+      }
+    },
+    {
+      "frame": 172,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 158,
+        "Y": 174,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": -0.24810603,
+        "remainderY": 0.25335276
+      }
+    },
+    {
+      "frame": 173,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 158,
+        "Y": 174,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": -0.39673418,
+        "remainderY": 0.17200598
+      }
+    },
+    {
+      "frame": 174,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 157,
+        "Y": 174,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": 1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": 0.46944064,
+        "remainderY": 0.10033298
+      }
+    },
+    {
+      "frame": 175,
+      "input": {
+        "x": -1,
+        "y": -1,
+        "dodge": true
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 153,
+        "Y": 170,
+        "vx": -4.242641,
+        "vy": -4.242641,
+        "State": 2,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": 0.22679973,
+        "remainderY": -0.14230776
+      }
+    },
+    {
+      "frame": 176,
+      "input": {
+        "x": -1,
+        "y": -1,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 149,
+        "Y": 166,
+        "vx": -3.9597983,
+        "vy": -3.9597983,
+        "State": 2,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": 0.2670014,
+        "remainderY": -0.102106094
+      }
+    },
+    {
+      "frame": 177,
+      "input": {
+        "x": -1,
+        "y": -1,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 146,
+        "Y": 162,
+        "vx": -3.6769557,
+        "vy": -3.6769557,
+        "State": 2,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": -0.4099543,
+        "remainderY": 0.2209382
+      }
+    },
+    {
+      "frame": 178,
+      "input": {
+        "x": -1,
+        "y": -1,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 142,
+        "Y": 159,
+        "vx": -3.394113,
+        "vy": -3.394113,
+        "State": 2,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": 0.19593263,
+        "remainderY": -0.17317486
+      }
+    },
+    {
+      "frame": 179,
+      "input": {
+        "x": -1,
+        "y": -1,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 139,
+        "Y": 156,
+        "vx": -3.1112704,
+        "vy": -3.1112704,
+        "State": 2,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": 0.0846622,
+        "remainderY": -0.2844453
+      }
+    },
+    {
+      "frame": 180,
+      "input": {
+        "x": -1,
+        "y": -1,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 136,
+        "Y": 153,
+        "vx": -2.8284278,
+        "vy": -2.8284278,
+        "State": 2,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": 0.2562344,
+        "remainderY": -0.11287308
+      }
+    },
+    {
+      "frame": 181,
+      "input": {
+        "x": -1,
+        "y": -1,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 134,
+        "Y": 150,
+        "vx": -2.5455852,
+        "vy": -2.5455852,
+        "State": 2,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": -0.28935075,
+        "remainderY": 0.34154177
+      }
+    },
+    {
+      "frame": 182,
+      "input": {
+        "x": -1,
+        "y": -1,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 131,
+        "Y": 148,
+        "vx": -2.2627425,
+        "vy": -2.2627425,
+        "State": 2,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": 0.44790673,
+        "remainderY": 0.07879925
+      }
+    },
+    {
+      "frame": 183,
+      "input": {
+        "x": -1,
+        "y": -1,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 129,
+        "Y": 146,
+        "vx": -1.9798998,
+        "vy": -1.9798998,
+        "State": 2,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": 0.46800697,
+        "remainderY": 0.09889948
+      }
+    },
+    {
+      "frame": 184,
+      "input": {
+        "x": -1,
+        "y": -1,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 128,
+        "Y": 144,
+        "vx": -1.697057,
+        "vy": -1.697057,
+        "State": 2,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": -0.22905004,
+        "remainderY": 0.40184247
+      }
+    },
+    {
+      "frame": 185,
+      "input": {
+        "x": -1,
+        "y": -1,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 126,
+        "Y": 143,
+        "vx": -1.4142143,
+        "vy": -1.4142143,
+        "State": 2,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": 0.3567357,
+        "remainderY": -0.0123717785
+      }
+    },
+    {
+      "frame": 186,
+      "input": {
+        "x": -1,
+        "y": -1,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 125,
+        "Y": 142,
+        "vx": -1.1313715,
+        "vy": -1.1313715,
+        "State": 2,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": 0.22536421,
+        "remainderY": -0.14374328
+      }
+    },
+    {
+      "frame": 187,
+      "input": {
+        "x": -1,
+        "y": -1,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 124,
+        "Y": 141,
+        "vx": -1.1313715,
+        "vy": -1.1313715,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 30,
+        "remainderX": 0.09399271,
+        "remainderY": -0.27511477
+      }
+    },
+    {
+      "frame": 188,
+      "input": {
+        "x": -1,
+        "y": -1,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 123,
+        "Y": 140,
+        "vx": -1.1455129,
+        "vy": -1.1455129,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.62,
+        "killDelay": 0,
+        "cooldown": 29,
+        "remainderX": 0.08230758,
+        "remainderY": -0.348953
+      }
+    },
+    {
+      "frame": 189,
+      "input": {
+        "x": -1,
+        "y": -1,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 122,
+        "Y": 139,
+        "vx": -1.1596551,
+        "vy": -1.1596551,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.64,
+        "killDelay": 0,
+        "cooldown": 28,
+        "remainderX": 0.07128304,
+        "remainderY": -0.42725968
+      }
+    },
+    {
+      "frame": 190,
+      "input": {
+        "x": -1,
+        "y": -1,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 121,
+        "Y": 137,
+        "vx": -1.1737972,
+        "vy": -1.1737972,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.66,
+        "killDelay": 0,
+        "cooldown": 27,
+        "remainderX": 0.059290648,
+        "remainderY": 0.48974228
+      }
+    },
+    {
+      "frame": 191,
+      "input": {
+        "x": -1,
+        "y": -1,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 120,
+        "Y": 136,
+        "vx": -1.1879393,
+        "vy": -1.1879393,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.68,
+        "killDelay": 0,
+        "cooldown": 26,
+        "remainderX": 0.04455769,
+        "remainderY": 0.4018041
+      }
+    },
+    {
+      "frame": 192,
+      "input": {
+        "x": -1,
+        "y": -1,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 119,
+        "Y": 135,
+        "vx": -1.2020814,
+        "vy": -1.2020814,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.6999999,
+        "killDelay": 0,
+        "cooldown": 25,
+        "remainderX": 0.02518642,
+        "remainderY": 0.30865145
+      }
+    },
+    {
+      "frame": 193,
+      "input": {
+        "x": -1,
+        "y": -1,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 118,
+        "Y": 134,
+        "vx": -1.2162236,
+        "vy": -1.2162236,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.7199999,
+        "killDelay": 0,
+        "cooldown": 24,
+        "remainderX": -0.0008250475,
+        "remainderY": 0.20998597
+      }
+    },
+    {
+      "frame": 194,
+      "input": {
+        "x": -1,
+        "y": -1,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 117,
+        "Y": 133,
+        "vx": -1.2303658,
+        "vy": -1.2303658,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.7399999,
+        "killDelay": 0,
+        "cooldown": 23,
+        "remainderX": -0.035560727,
+        "remainderY": 0.10548538
+      }
+    },
+    {
+      "frame": 195,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 116,
+        "Y": 132,
+        "vx": -1.0182337,
+        "vy": -1.0182337,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 22,
+        "remainderX": 0.14511031,
+        "remainderY": 0.22107887
+      }
+    },
+    {
+      "frame": 196,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 116,
+        "Y": 132,
+        "vx": -0.8061016,
+        "vy": -0.8061016,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 21,
+        "remainderX": -0.46099132,
+        "remainderY": -0.44360036
+      }
+    },
+    {
+      "frame": 197,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 115,
+        "Y": 131,
+        "vx": -0.5939696,
+        "vy": -0.5939696,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 20,
+        "remainderX": 0.14394319,
+        "remainderY": 0.11106002
+      }
+    },
+    {
+      "frame": 198,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 115,
+        "Y": 131,
+        "vx": -0.38183755,
+        "vy": -0.38183755,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 19,
+        "remainderX": -0.042265475,
+        "remainderY": -0.115347385
+      }
+    },
+    {
+      "frame": 199,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 115,
+        "Y": 131,
+        "vx": -0.16970551,
+        "vy": -0.16970551,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 18,
+        "remainderX": -0.021760628,
+        "remainderY": -0.12324859
+      }
+    },
+    {
+      "frame": 200,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 115,
+        "Y": 131,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 17,
+        "remainderX": 0.16094719,
+        "remainderY": 0.044486374
+      }
+    },
+    {
+      "frame": 201,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 115,
+        "Y": 131,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 16,
+        "remainderX": 0.33415067,
+        "remainderY": 0.21769227
+      }
+    },
+    {
+      "frame": 202,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 115,
+        "Y": 131,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 15,
+        "remainderX": 0.49595213,
+        "remainderY": 0.39589435
+      }
+    },
+    {
+      "frame": 203,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 116,
+        "Y": 132,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 14,
+        "remainderX": -0.3554212,
+        "remainderY": -0.4213959
+      }
+    },
+    {
+      "frame": 204,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 116,
+        "Y": 132,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 13,
+        "remainderX": -0.22159763,
+        "remainderY": -0.23467919
+      }
+    },
+    {
+      "frame": 205,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 116,
+        "Y": 132,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 12,
+        "remainderX": -0.104043424,
+        "remainderY": -0.044467345
+      }
+    },
+    {
+      "frame": 206,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 116,
+        "Y": 132,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 11,
+        "remainderX": -0.004046537,
+        "remainderY": 0.14871828
+      }
+    },
+    {
+      "frame": 207,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 116,
+        "Y": 132,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 10,
+        "remainderX": 0.07729745,
+        "remainderY": 0.3443482
+      }
+    },
+    {
+      "frame": 208,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 116,
+        "Y": 133,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 9,
+        "remainderX": 0.1390973,
+        "remainderY": -0.45811385
+      }
+    },
+    {
+      "frame": 209,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 116,
+        "Y": 133,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 8,
+        "remainderX": 0.18067592,
+        "remainderY": -0.25920928
+      }
+    },
+    {
+      "frame": 210,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 116,
+        "Y": 133,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 7,
+        "remainderX": 0.20157775,
+        "remainderY": -0.05948326
+      }
+    },
+    {
+      "frame": 211,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 116,
+        "Y": 133,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 6,
+        "remainderX": 0.2015738,
+        "remainderY": 0.14051674
+      }
+    },
+    {
+      "frame": 212,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 116,
+        "Y": 133,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 5,
+        "remainderX": 0.1806641,
+        "remainderY": 0.34024256
+      }
+    },
+    {
+      "frame": 213,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 116,
+        "Y": 134,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 4,
+        "remainderX": 0.13907777,
+        "remainderY": -0.46085328
+      }
+    },
+    {
+      "frame": 214,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 116,
+        "Y": 134,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 3,
+        "remainderX": 0.07727058,
+        "remainderY": -0.26331592
+      }
+    },
+    {
+      "frame": 215,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 116,
+        "Y": 134,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 2,
+        "remainderX": -0.004080273,
+        "remainderY": -0.067686796
+      }
+    },
+    {
+      "frame": 216,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 116,
+        "Y": 134,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 1,
+        "remainderX": -0.104083516,
+        "remainderY": 0.12549789
+      }
+    },
+    {
+      "frame": 217,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 116,
+        "Y": 134,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": -0.22164351,
+        "remainderY": 0.31570864
+      }
+    },
+    {
+      "frame": 218,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 116,
+        "Y": 135,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": -0.35547224,
+        "remainderY": -0.49757588
+      }
+    },
+    {
+      "frame": 219,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 115,
+        "Y": 135,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": 0.49589652,
+        "remainderY": -0.31486747
+      }
+    },
+    {
+      "frame": 220,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 115,
+        "Y": 135,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": 0.3340912,
+        "remainderY": -0.1366669
+      }
+    },
+    {
+      "frame": 221,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 115,
+        "Y": 135,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": 0.16088453,
+        "remainderY": 0.036537394
+      }
+    },
+    {
+      "frame": 222,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 115,
+        "Y": 135,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": -0.021825805,
+        "remainderY": 0.20427069
+      }
+    },
+    {
+      "frame": 223,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 115,
+        "Y": 135,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": -0.21203801,
+        "remainderY": 0.36607325
+      }
+    },
+    {
+      "frame": 224,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 115,
+        "Y": 136,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": -0.4076681,
+        "remainderY": -0.47849846
+      }
+    },
+    {
+      "frame": 225,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 114,
+        "Y": 136,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": 0.39342725,
+        "remainderY": -0.3298704
+      }
+    },
+    {
+      "frame": 226,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 114,
+        "Y": 136,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": 0.19342725,
+        "remainderY": -0.18844993
+      }
+    },
+    {
+      "frame": 227,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 114,
+        "Y": 136,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": -0.005476877,
+        "remainderY": -0.054624707
+      }
+    },
+    {
+      "frame": 228,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 114,
+        "Y": 136,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": -0.20110592,
+        "remainderY": 0.07123847
+      }
+    },
+    {
+      "frame": 229,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 114,
+        "Y": 136,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": -0.39131653,
+        "remainderY": 0.18879464
+      }
+    },
+    {
+      "frame": 230,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 113,
+        "Y": 136,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": 0.4259752,
+        "remainderY": 0.2977216
+      }
+    },
+    {
+      "frame": 231,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 113,
+        "Y": 136,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": 0.25277108,
+        "remainderY": 0.39772075
+      }
+    },
+    {
+      "frame": 232,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 113,
+        "Y": 136,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": 0.09096876,
+        "remainderY": 0.48851803
+      }
+    },
+    {
+      "frame": 233,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 113,
+        "Y": 137,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": -0.05765906,
+        "remainderY": -0.43013543
+      }
+    },
+    {
+      "frame": 234,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 113,
+        "Y": 137,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": -0.19148399,
+        "remainderY": -0.35846257
+      }
+    },
+    {
+      "frame": 235,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 113,
+        "Y": 137,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": -0.30903983,
+        "remainderY": -0.2966599
+      }
+    },
+    {
+      "frame": 236,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 113,
+        "Y": 137,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": -0.40903866,
+        "remainderY": -0.24489674
+      }
+    },
+    {
+      "frame": 237,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 113,
+        "Y": 137,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": -0.49038485,
+        "remainderY": -0.203315
+      }
+    },
+    {
+      "frame": 238,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 112,
+        "Y": 137,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": 0.4478128,
+        "remainderY": -0.17202866
+      }
+    },
+    {
+      "frame": 239,
+      "input": {
+        "x": 0,
+        "y": 0,
+        "dodge": false
+      },
+      "corpse": {
+        "X": 80,
+        "Y": 212
+      },
+      "ghost": {
+        "X": 112,
+        "Y": 137,
+        "vx": 0,
+        "vy": 0,
+        "State": 1,
+        "Facing": -1,
+        "moveMax": 1.6,
+        "killDelay": 0,
+        "cooldown": 0,
+        "remainderX": 0.40623143,
+        "remainderY": -0.15112346
+      }
+    }
+  ],
+  "scope": "Numerical spirit movement observations; historical measurement details retained separately."
+}

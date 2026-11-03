@@ -1,0 +1,116 @@
+name: Portable game
+on:
+  push:
+    branches: [main, 'codex/**']
+  pull_request:
+  workflow_dispatch:
+    inputs:
+      release_tag:
+        description: Optional draft/published release to test instead of rebuilding source
+        required: false
+        type: string
+permissions:
+  contents: read
+jobs:
+  portable:
+    if: ${{ inputs.release_tag == '' }}
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - os: ubuntu-latest
+            rid: linux-x64
+          - os: windows-latest
+            rid: win-x64
+    runs-on: ${{ matrix.os }}
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '10.0.x'
+      - name: Prepare only authored content
+        run: python tools/standalone/prepare_content.py build/check-content
+      - name: Simulation, saves, all chapters and four network peers
+        run: dotnet run --project tests/Jerichofall.Checks -c Release -- build/check-content
+      - name: Build portable game from source
+        run: python tools/standalone/build.py --rid ${{ matrix.rid }}
+      - name: Linux software rendering dependencies
+        if: runner.os == 'Linux'
+        run: sudo apt-get update -qq && sudo apt-get install -y xvfb libgl1-mesa-dri libglx-mesa0
+      - name: Run native renderer on Linux
+        if: runner.os == 'Linux'
+        run: xvfb-run -a python tools/standalone/smoke.py build/standalone build/render-checks
+      - name: Run native renderer on Windows
+        if: runner.os == 'Windows'
+        run: python tools/standalone/smoke.py build/standalone build/render-checks
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: independent-engine-${{ matrix.rid }}
+          path: |
+            build/render-checks/
+            build/standalone/dependency-audit.json
+            build/standalone/content-audit.json
+          if-no-files-found: warn
+  packaged-release:
+    if: ${{ inputs.release_tag != '' }}
+    # GitHub requires push-level access to download a draft release. No uploads
+    # or publication are performed by this manually requested job.
+    permissions:
+      contents: write
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - os: ubuntu-latest
+            rid: linux-x64
+          - os: windows-latest
+            rid: win-x64
+    runs-on: ${{ matrix.os }}
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '10.0.x'
+      - name: Download exact release archive
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          RELEASE_TAG: ${{ inputs.release_tag }}
+          TARGET_RID: ${{ matrix.rid }}
+        run: gh release download "$RELEASE_TAG" --pattern "*-$TARGET_RID.zip" --dir downloaded
+      - name: Verify and extract archive
+        shell: bash
+        run: python tools/standalone/verify_archive.py downloaded/*.zip build/package
+      - name: Audit asset inventory and licenses
+        run: python tools/standalone/audit.py build/package
+      - name: Audit actual packaged assembly references
+        run: dotnet run --project tests/Jerichofall.Checks -c Release -- --audit build/package
+      - name: Linux rendering dependencies
+        if: runner.os == 'Linux'
+        run: sudo apt-get update -qq && sudo apt-get install -y xvfb libgl1-mesa-dri libglx-mesa0
+      - name: Run Linux archive
+        if: runner.os == 'Linux'
+        run: xvfb-run -a python tools/standalone/smoke.py build/package build/render-checks
+      - name: Run Windows archive
+        if: runner.os == 'Windows'
+        run: python tools/standalone/smoke.py build/package build/render-checks
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: independent-release-${{ matrix.rid }}
+          path: |
+            build/render-checks/
+            build/package/dependency-audit.json
+            build/package/content-audit.json

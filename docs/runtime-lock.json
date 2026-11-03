@@ -1,0 +1,55 @@
+{
+  "fna_repository": "https://github.com/FNA-XNA/FNA",
+  "commit": "6f9735ad5b495b36581b1387824fa57f371937a2",
+  "submodules": " 0c423758079863fc3044ba26dd00fc89c41f469e lib/FAudio (26.11)\n 2806acf739f9250cc67be6e3078cb5b01767844e lib/FNA3D (26.11)\n ad5dff84830c2863c841f4b1f4e3df78c705b383 lib/FNA3D/MojoShader (heads/main)\n 1eb20e5c690aee9a5188ba9cf06207295c51d935 lib/SDL2-CS (B1-325-g1eb20e5)\n 9bdcf5de2af86bf764a9ca3c42821c1a099ef150 lib/SDL3-CS (9bdcf5d)\n 3497e1a3cda1fa1ce79256f20e210fd08aec546f lib/Theorafile (3497e1a)\n a1377b49d6b69097357618bde87b0294e32dc313 lib/dav1dfile (1.1.1-19-ga1377b4)\n",
+  "source_patch": {
+    "file": "FNA.Core.csproj",
+    "change": "TargetFramework net8.0 -> net10.0"
+  },
+  "dotnet_sdk": "10.0.403",
+  "build_command": "dotnet build .tools/fna-source/FNA.Core.csproj -c Release -p:DebugType=None -p:PathMap=<root>=/src/JERICHOFALL -o .tools/fna-build",
+  "native_artifact": {
+    "id": 13115875923,
+    "node_id": "MDg6QXJ0aWZhY3QxMzExNTg3NTkyMw==",
+    "name": "fnalibs",
+    "size_in_bytes": 11470696,
+    "url": "https://api.github.com/repos/FNA-XNA/fnalibs-dailies/actions/artifacts/13115875923",
+    "archive_download_url": "https://api.github.com/repos/FNA-XNA/fnalibs-dailies/actions/artifacts/13115875923/zip",
+    "expired": false,
+    "digest": "sha256:72a1bfcfe5fc01db55e5c4f975141cb15a84fc70542776e71316121493e1fb7b",
+    "created_at": "2026-11-02T04:12:19Z",
+    "updated_at": "2026-11-02T04:12:19Z",
+    "expires_at": "2027-01-31T04:09:28Z",
+    "workflow_run": {
+      "id": 41386874076,
+      "repository_id": 880285175,
+      "head_repository_id": 880285175,
+      "head_branch": "main",
+      "head_sha": "5bf12d215f17526323c7499c324435c578af18a0"
+    }
+  },
+  "native_download": "https://nightly.link/FNA-XNA/fnalibs-dailies/actions/runs/41386874076/fnalibs.zip",
+  "archive_sha256": "72a1bfcfe5fc01db55e5c4f975141cb15a84fc70542776e71316121493e1fb7b",
+  "files": {
+    ".tools/fna-build/FNA.dll.config": {
+      "bytes": 1049,
+      "sha256": "c935003d1bb00b56935a136562bc91333b0629eff1adaf1aef118a5da778a3f9"
+    },
+    ".tools/fna-native/lib64/libFAudio.so.0": {
+      "bytes": 306768,
+      "sha256": "d713dfbc7b8c0fb835e9bff380cb01afff7746bec3ed9f6e2dbf68f4c7832b66"
+    },
+    ".tools/fna-native/lib64/libFNA3D.so.0": {
+      "bytes": 725176,
+      "sha256": "02ce6482b90252ba28a073e142fef0a799096936dc11fd4fcc9c77a36b9ea114"
+    },
+    ".tools/fna-native/lib64/libSDL3.so.0": {
+      "bytes": 4138424,
+      "sha256": "bfa8d3950464ef90540b00a4b7abc2dcc33fe6fa0e1eeb28a4952ad516f7400d"
+    },
+    ".tools/fna-native/lib64/libtheorafile.so": {
+      "bytes": 376320,
+      "sha256": "c7b16205cfe70f428487ae6548dceedf59288a68130939c89b4a1141a14319fb"
+    }
+  }
+}

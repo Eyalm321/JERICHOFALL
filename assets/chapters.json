@@ -1,0 +1,290 @@
+[
+  {
+    "id": "rameses",
+    "title": "RAMESES",
+    "region": "EGYPT",
+    "x": 142,
+    "y": 92,
+    "subtitle": "THE NIGHT OF DEPARTURE",
+    "intro": [
+      "THE GATES OPEN. A PEOPLE SETS OUT.",
+      "CLEAR THE COURTYARDS AND LEAVE EGYPT."
+    ],
+    "outro": [
+      "THE CITY FALLS QUIET BEHIND YOU.",
+      "THE CARAVAN GATHERS AT SUCCOTH."
+    ]
+  },
+  {
+    "id": "succoth",
+    "title": "SUCCOTH",
+    "region": "EGYPT",
+    "x": 174,
+    "y": 116,
+    "subtitle": "THE FIRST ENCAMPMENT",
+    "intro": [
+      "TENTS RISE AT THE EDGE OF THE FIELDS.",
+      "HOLD THE CAMP UNTIL THE ROAD IS CLEAR."
+    ],
+    "outro": [
+      "THE FIRES ARE DOUSED. THE CAMP MOVES.",
+      "A PILLAR LEADS TOWARD THE WATER."
+    ]
+  },
+  {
+    "id": "sea-crossing",
+    "title": "PI-HAHIROTH",
+    "region": "THE SEA",
+    "x": 176,
+    "y": 145,
+    "subtitle": "THE SEA CROSSING",
+    "intro": [
+      "WATER RISES ON EITHER SIDE.",
+      "DEFEND THE PASSAGE THROUGH THE SEA."
+    ],
+    "outro": [
+      "THE LAST TRAVELERS REACH DRY GROUND.",
+      "THE WILDERNESS OPENS BEFORE YOU."
+    ]
+  },
+  {
+    "id": "marah",
+    "title": "MARAH",
+    "region": "WILDERNESS",
+    "x": 195,
+    "y": 169,
+    "subtitle": "BITTER WATER",
+    "intro": [
+      "THE FIRST SPRING OFFERS NO RELIEF.",
+      "CLEAR ITS BANKS AND SECURE THE WATER."
+    ],
+    "outro": [
+      "THE SPRING BECOMES A PLACE TO REST.",
+      "PALMS PROMISE SHELTER FARTHER SOUTH."
+    ]
+  },
+  {
+    "id": "elim",
+    "title": "ELIM",
+    "region": "WILDERNESS",
+    "x": 211,
+    "y": 197,
+    "subtitle": "TWELVE SPRINGS",
+    "intro": [
+      "PALMS SHADE A RING OF CLEAR SPRINGS.",
+      "GUARD THE OASIS WHILE THE CAMP RESTS."
+    ],
+    "outro": [
+      "WATERSKINS ARE FILLED FOR THE ROAD.",
+      "THE STONE LEDGES OF DOPHKAH WAIT."
+    ]
+  },
+  {
+    "id": "dophkah",
+    "title": "DOPHKAH",
+    "region": "SINAI",
+    "subtitle": "THE STONE ROAD",
+    "intro": [
+      "THE ROAD WINDS THROUGH A STONE QUARRY.",
+      "CLEAR THE LEDGES FOR THE CARAVAN."
+    ],
+    "outro": [
+      "THE QUARRY FALLS SILENT BEHIND YOU.",
+      "THE ROCKY PASS OF REPHIDIM LIES AHEAD."
+    ],
+    "x": 227,
+    "y": 225
+  },
+  {
+    "id": "rephidim",
+    "title": "REPHIDIM",
+    "region": "SINAI",
+    "x": 247,
+    "y": 260,
+    "subtitle": "THE ROCKY PASS",
+    "intro": [
+      "THE NARROW VALLEY ECHOES WITH DANGER.",
+      "HOLD THE HIGH GROUND ABOVE THE CAMP."
+    ],
+    "outro": [
+      "THE PASS IS OPEN. THE PEOPLE ADVANCE.",
+      "A GREAT MOUNTAIN RISES THROUGH CLOUD."
+    ]
+  },
+  {
+    "id": "sinai",
+    "title": "MOUNT SINAI",
+    "region": "SINAI",
+    "x": 278,
+    "y": 278,
+    "subtitle": "FIRE ON THE MOUNTAIN",
+    "intro": [
+      "THUNDER ROLLS ABOVE THE STONE ALTAR.",
+      "KEEP THE MOUNTAIN APPROACH SAFE."
+    ],
+    "outro": [
+      "THE CAMP GATHERS BELOW THE SUMMIT.",
+      "THE NEXT ROAD LEADS INTO WILDERNESS."
+    ]
+  },
+  {
+    "id": "paran",
+    "title": "SINAI WILDERNESS",
+    "region": "WILDERNESS",
+    "x": 291,
+    "y": 243,
+    "subtitle": "THE WANDERING ROAD",
+    "intro": [
+      "DUNES AND RIDGES HIDE THE WAY AHEAD.",
+      "OPEN A ROUTE THROUGH THE WILDERNESS."
+    ],
+    "outro": [
+      "THE SCOUTS FIND A PATH BETWEEN RIDGES.",
+      "WATCH FIRES MARK THE NEXT CAMPS."
+    ]
+  },
+  {
+    "id": "wilderness-camps",
+    "title": "WILDERNESS CAMPS",
+    "region": "WILDERNESS",
+    "subtitle": "FIRES ALONG THE ROAD",
+    "intro": [
+      "SMALL FIRES MARK A LONG NIGHT ROAD.",
+      "HOLD THE CAMP THROUGH THREE ATTACKS."
+    ],
+    "outro": [
+      "THE WATCH FIRES SURVIVE THE NIGHT.",
+      "THE CARAVAN TURNS TOWARD EZION-GEBER."
+    ],
+    "x": 313,
+    "y": 215
+  },
+  {
+    "id": "ezion-geber",
+    "title": "EZION-GEBER",
+    "region": "AQABA",
+    "subtitle": "AT THE HEAD OF THE GULF",
+    "intro": [
+      "MASTS RISE WHERE THE DESERT MEETS SEA.",
+      "SECURE THE DOCKS AND THE NORTH ROAD."
+    ],
+    "outro": [
+      "THE GULF SHIMMERS BEHIND THE CAMP.",
+      "THE ROAD TURNS NORTHWEST TO KADESH."
+    ],
+    "x": 362,
+    "y": 136
+  },
+  {
+    "id": "kadesh",
+    "title": "KADESH",
+    "region": "WILDERNESS",
+    "x": 300,
+    "y": 120,
+    "subtitle": "YEARS IN THE DESERT",
+    "intro": [
+      "A GENERATION WAITS AMONG THE CLIFFS.",
+      "SECURE THE CAVES BEFORE MOVING ON."
+    ],
+    "outro": [
+      "AT LAST THE CAMP TURNS EASTWARD.",
+      "THE LONG DETOUR AROUND EDOM BEGINS."
+    ]
+  },
+  {
+    "id": "edom",
+    "title": "AROUND EDOM",
+    "region": "EDOM",
+    "subtitle": "THE EASTERN WILDERNESS",
+    "intro": [
+      "THE DIRECT PASSAGE REMAINS CLOSED.",
+      "FIND A WAY AROUND THE RED MOUNTAINS."
+    ],
+    "outro": [
+      "THE EASTERN PASS OPENS TO THE NORTH.",
+      "MOAB RISES ABOVE THE DISTANT VALLEY."
+    ],
+    "x": 414,
+    "y": 195
+  },
+  {
+    "id": "moab",
+    "title": "PLAINS OF MOAB",
+    "region": "MOAB",
+    "x": 427,
+    "y": 118,
+    "subtitle": "ACROSS THE VALLEY",
+    "intro": [
+      "CANAAN CAN BE SEEN ACROSS THE RIVER.",
+      "CLEAR THE HEIGHTS AND PREPARE TO CROSS."
+    ],
+    "outro": [
+      "THE RIVER VALLEY LIES FAR BELOW.",
+      "THE SUMMIT OF NEBO REVEALS THE WAY."
+    ]
+  },
+  {
+    "id": "nebo",
+    "title": "MOUNT NEBO",
+    "region": "MOAB",
+    "subtitle": "THE LAND BEYOND",
+    "intro": [
+      "GREEN HILLS APPEAR ACROSS THE VALLEY.",
+      "KEEP THE SUMMIT APPROACH CLEAR."
+    ],
+    "outro": [
+      "FROM THE HEIGHTS THE ROAD IS VISIBLE.",
+      "JOSHUA LEADS ON TOWARD THE JORDAN."
+    ],
+    "x": 409,
+    "y": 80
+  },
+  {
+    "id": "jordan",
+    "title": "JORDAN CROSSING",
+    "region": "CANAAN",
+    "x": 374,
+    "y": 58,
+    "subtitle": "THE FAR BANK",
+    "intro": [
+      "THE RIVER ROAD OPENS BEFORE THE CAMP.",
+      "GUARD THE CROSSING INTO CANAAN."
+    ],
+    "outro": [
+      "THE PEOPLE GATHER ON THE WESTERN BANK.",
+      "THE WALLS OF JERICHO STAND AHEAD."
+    ]
+  },
+  {
+    "id": "jericho",
+    "title": "JERICHO",
+    "region": "CANAAN",
+    "x": 343,
+    "y": 80,
+    "subtitle": "THE GATES OF CANAAN",
+    "intro": [
+      "THE JOURNEY REACHES THE ANCIENT WALLS.",
+      "CLEAR THE GATES AND OPEN THE HILL ROAD."
+    ],
+    "outro": [
+      "THE GATES OPEN. THE PEOPLE ADVANCE.",
+      "ONE LAST ROAD CLIMBS TO THE HILLS OF AI."
+    ]
+  },
+  {
+    "id": "ai",
+    "title": "AI",
+    "region": "CANAAN",
+    "subtitle": "THE HILL COUNTRY",
+    "intro": [
+      "THE ROAD CLIMBS ABOVE THE RIVER PLAIN.",
+      "OVERCOME THE LAST HILL-FORT DEFENDERS."
+    ],
+    "outro": [
+      "THE FINAL HEIGHTS ARE QUIET AT LAST.",
+      "FROM EGYPT TO CANAAN - JOURNEY COMPLETE."
+    ],
+    "x": 339,
+    "y": 40
+  }
+]
